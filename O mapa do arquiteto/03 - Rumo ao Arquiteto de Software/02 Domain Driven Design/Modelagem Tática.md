@@ -1,0 +1,6 @@
+- Entity
+- Value Object
+- Agregate Root
+- Repository
+- Domain Sevice
+- Factory

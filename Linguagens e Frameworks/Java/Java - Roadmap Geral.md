@@ -1,0 +1,257 @@
+# 🚀 Roadmap Backend Java
+
+## 📌 1. Fundamentos da Computação & Internet
+
+- [ ]  [[Como a internet funciona]]
+- [ ]  [[HTTP vs HTTPS]]
+- [ ]  [[Como funciona um DNS]]
+- [ ]  [[Domínio - O que é]]
+- [ ]  Browsers (request lifecycle)
+- [ ]  Client vs Server
+
+---
+
+## 📌 2. Base de Programação (Java Core)
+
+- [ ]  [[Sintaxe básica]]
+- [ ]  Tipos de dados, variáveis e escopo
+- [ ]  Condicionais e loops
+- [ ]  Arrays e Strings
+- [ ]  Funções e métodos
+- [ ]  Estruturas de dados (List, Set, Map, Queue)
+
+---
+
+## 📌 3. Programação Orientada a Objetos (OOP)
+
+- [ ]  Classes e Objetos
+- [ ]  Encapsulamento
+- [ ]  Herança
+- [ ]  Polimorfismo
+- [ ]  Abstração
+- [ ]  Interfaces
+- [ ]  Imutabilidade e Records
+
+---
+
+## 📌 4. Java Avançado
+
+- [ ]  Collections + Generics
+- [ ]  Exceptions
+- [ ]  Streams API
+- [ ]  Lambdas
+- [ ]  Optional
+- [ ]  Annotations
+- [ ]  Date/Time API
+
+---
+
+## 📌 5. Concorrência & Performance (🔥 MUITO COBRADO)
+
+- [ ]  Threads
+- [ ]  Virtual Threads (Java moderno)
+- [ ]  Java Memory Model
+- [ ]  volatile / synchronized
+- [ ]  Paralelismo vs Concorrência
+
+---
+
+## 📌 6. Banco de Dados (Unificado)
+
+(Backend + Performance juntos)
+
+### Fundamentos
+
+- [ ]  SQL (joins, indexes)
+- [ ]  ACID
+- [ ]  Transações
+- [ ]  Normalização vs Desnormalização
+
+### Performance
+
+- [ ]  Indexação eficiente
+- [ ]  Evitar SELECT *
+- [ ]  Paginação eficiente
+- [ ]  N+1 problem
+- [ ]  Connection Pooling
+- [ ]  Query tuning
+- [ ]  Lazy vs Eager loading
+
+### Escala
+
+- [ ]  Replicação
+- [ ]  Sharding
+- [ ]  CAP Theorem
+
+### Tipos
+
+- [ ]  Relacional (PostgreSQL, MySQL)
+- [ ]  NoSQL (MongoDB, Redis)
+- [ ]  Cache DB (Redis)
+
+---
+
+## 📌 7. Backend & APIs
+
+- [ ]  REST
+- [ ]  JSON APIs
+- [ ]  OpenAPI / Swagger
+- [ ]  GraphQL (diferencial)
+- [ ]  gRPC (avançado)
+
+---
+
+## 📌 8. Framework Java (CORE DO MERCADO)
+
+- [ ]  Spring Boot (FOCO TOTAL)
+- [ ]  Spring Data JPA
+- [ ]  Hibernate
+
+Extras:
+
+- [ ]  Quarkus
+- [ ]  Play Framework
+
+---
+
+## 📌 9. Segurança (Muito cobrado em entrevistas)
+
+- [ ]  JWT
+- [ ]  OAuth2
+- [ ]  Authentication vs Authorization
+- [ ]  Hashing (bcrypt, scrypt)
+- [ ]  HTTPS / SSL
+- [ ]  OWASP Top 10
+- [ ]  Rate Limiting / Throttling
+
+---
+
+## 📌 10. Caching (Performance)
+
+- [ ]  Cache (HTTP, Server, CDN)
+- [ ]  Redis / Memcached
+- [ ]  Cache patterns:
+    - [ ]  Cache Aside
+    - [ ]  Write Through
+    - [ ]  Read Through
+- [ ]  Cache invalidation
+
+---
+
+## 📌 11. Arquitetura de Software
+
+(Unificação do backend + design)
+
+- [ ]  Clean Architecture
+- [ ]  DDD
+- [ ]  SOLID
+- [ ]  Design Patterns (GoF)
+
+### Arquiteturas
+
+- [ ]  Monolito
+- [ ]  Microservices
+- [ ]  SOA
+- [ ]  Serverless
+
+### Padrões avançados
+
+- [ ]  CQRS
+- [ ]  Event Sourcing
+
+---
+
+## 📌 12. Comunicação & Assincronismo
+
+- [ ]  RabbitMQ
+- [ ]  Kafka
+- [ ]  Mensageria
+- [ ]  Background Jobs
+- [ ]  Event-driven architecture
+
+---
+
+## 📌 13. Escalabilidade & Resiliência
+
+(Unificado com performance)
+
+- [ ]  Load Balancing
+- [ ]  Horizontal vs Vertical Scaling
+- [ ]  Circuit Breaker
+- [ ]  Retry Pattern
+- [ ]  Backpressure
+- [ ]  Graceful Degradation
+
+---
+
+## 📌 14. Performance Backend (🔥 DIFERENCIAL)
+
+(Extraído do PDF de performance )
+
+- [ ]  Compressão de respostas
+- [ ]  Redução de payload
+- [ ]  Streaming de dados
+- [ ]  Batch requests
+- [ ]  Minimizar latência
+- [ ]  Profiling de código
+- [ ]  Otimização de algoritmos
+
+---
+
+## 📌 15. Observabilidade
+
+(Unificação de vários tópicos duplicados)
+
+- [ ]  Logs (SLF4J, Logback)
+- [ ]  Metrics
+- [ ]  Tracing
+
+Ferramentas:
+
+- [ ]  Prometheus
+- [ ]  Grafana
+- [ ]  ELK Stack
+
+---
+
+## 📌 16. Testes (Unificado)
+
+- [ ]  Unit Testing (JUnit)
+- [ ]  Integration Testing
+- [ ]  REST Assured
+- [ ]  Mocking (Mockito)
+- [ ]  Teste de carga (JMeter)
+
+---
+
+## 📌 17. DevOps & Infra
+
+- [ ]  Git
+- [ ]  CI/CD
+- [ ]  Docker
+- [ ]  Kubernetes
+- [ ]  Nginx / Apache
+
+---
+
+## 📌 18. Build Tools
+
+- [ ]  Maven
+- [ ]  Gradle
+
+---
+
+## 📌 19. Real-time & Avançado
+
+- [ ]  WebSockets
+- [ ]  SSE
+- [ ]  Long Polling
+
+---
+
+## 📌 20. System Design (🔥 Nível Senior)
+
+- [ ]  Designing for scale
+- [ ]  Trade-offs
+- [ ]  Latência vs Consistência
+- [ ]  Sistemas distribuídos

@@ -1,0 +1,7 @@
+
+- [Domain Driven Desing](https://www.amazon.com.br/Domain-Driven-Design-Atacando-Complexidades-Software/dp/8550800651?crid=L89UEHFQ7QI6&dib=eyJ2IjoiMSJ9.tXFssbtdvQ7F7vstrScXiyujV-GHwPXJexOnAFAMyryhboKoE_wSO_oIse9BqArQyftMJim3SestWR_wTpQWD0dcif1O9Y4CeCQb0F_1GUyN6LxGciUBSg5nPYT8z7Oub98FSUb26oDMXqkngOOcmJMgZooP0iu0Rp16xNNovV_HQYMmar9YF7XEI16uqSZ8dQgkcZWQIdlJvpXFhFzNrUWv9TjazEbxYWetHMwEz-GbYm3s57Z0UylGOw1ggJJ-DEFdMaHr7Zvc96G7V0j6tKnm253IxWnClV13xrWFtJY.l-gYvI6naVm5Tq8VmGOW0F3evcrm8OTmos8A0mAlNNQ&dib_tag=se&keywords=domain+driven+design&qid=1748477581&sprefix=domain+dri,aps,214&sr=8-1&ufe=app_do:amzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d&linkCode=sl1&tag=renatoaugus0b-20&linkId=9e09af01eddff8c89c64d3a5ae1b5699&language=pt_BR&ref_=as_li_ss_tl)
+
+- [Aprenda domain-driven design](https://www.amazon.com.br/Aprenda-Domain-driven-Design-Arquitetura-Estrat%C3%A9gia/dp/8550819611?crid=2HNQUUMX18ZWH&dib=eyJ2IjoiMSJ9.tXFssbtdvQ7F7vstrScXiyujV-GHwPXJexOnAFAMyryhboKoE_wSO_oIse9BqArQyftMJim3SestWR_wTpQWD0dcif1O9Y4CeCQb0F_1GUyN6LxGciUBSg5nPYT8z7Oub98FSUb26oDMXqkngOOcmJMgZooP0iu0Rp16xNNovV_HQYMmar9YF7XEI16uqSZ8dQgkcZWQIdlJvpXFhFzNrUWv9TjazEbxYWetHMwEz-GbYm3s57Z0UylGOw1ggJJ-DEFdMaHr7Zvc96G7V0j6tKnm253IxWnClV13xrWFtJY.l-gYvI6naVm5Tq8VmGOW0F3evcrm8OTmos8A0mAlNNQ&dib_tag=se&keywords=domain+driven+design&qid=1748477632&sprefix=domain+d,aps,193&sr=8-2&ufe=app_do:amzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&linkCode=sl1&tag=renatoaugus0b-20&linkId=80511daff11078bc153e6c5b601cda64&language=pt_BR&ref_=as_li_ss_tl)
+
+
+

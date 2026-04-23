@@ -1,0 +1,3 @@
+- Arquiteto de Software (LLD - Low Level Design)
+- Arquiteto de Soluções (HLD - High Level Design)
+- Arquiteto Corporativo

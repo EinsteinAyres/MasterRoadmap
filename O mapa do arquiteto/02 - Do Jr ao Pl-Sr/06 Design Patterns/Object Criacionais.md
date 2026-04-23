@@ -1,0 +1,6 @@
+- [Singleton](youtube.com/watch?v=E8ey3HjSthg&feature=youtu.be)
+- [Simple Factory](https://www.youtube.com/watch?v=3-ESljj0jgI&feature=youtu.be)
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototye

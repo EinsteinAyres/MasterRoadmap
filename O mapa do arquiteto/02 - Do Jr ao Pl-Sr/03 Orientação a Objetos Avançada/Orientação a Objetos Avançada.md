@@ -1,0 +1,4 @@
+
+[[Princípios SOLID]]
+
+[[Object Calisthenics]]

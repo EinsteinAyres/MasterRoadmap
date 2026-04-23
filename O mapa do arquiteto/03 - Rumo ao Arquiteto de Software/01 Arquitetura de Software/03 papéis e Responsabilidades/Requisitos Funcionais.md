@@ -1,0 +1,3 @@
+- O sistema deve enviar um e-mail de confirmação após o cadastro do usuário
+- O sistema deve permitir que o usuário faça login com e-mail e senha.
+- O sistema deve calcular o total da compra com frete, descontos e impostos.

@@ -1,0 +1,3 @@
+- O sistema deve estar disponível 99,9% do tempo (alta disponibilidade)
+- O sistema deve suportar 1 milhão de usuários simultâneos (escalabilidade)
+- As requisições devem ser respondidas em até 200ms (performance)

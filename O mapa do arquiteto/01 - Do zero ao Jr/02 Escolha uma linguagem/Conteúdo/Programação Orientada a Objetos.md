@@ -1,0 +1,6 @@
+
+- Abstração
+- Herança
+- Polimorfismo
+- Encapsulamento
+

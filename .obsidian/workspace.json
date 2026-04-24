@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "45bfad664a58e923",
+        "id": "4f9b9d16ea0dd227",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd80035aebcea89",
+            "id": "b3b92ad99c7d9688",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/03 System Design/Treinamento de Entrevistas.md",
-                "mode": "source",
-                "source": false
+                "file": "roadmap-arquiteto.canvas.canvas",
+                "viewState": {
+                  "x": -4156.69351669983,
+                  "y": -664.2973670797817,
+                  "zoom": -0.6666666666666667
+                }
               },
-              "icon": "lucide-file",
-              "title": "Treinamento de Entrevistas"
+              "icon": "lucide-layout-dashboard",
+              "title": "roadmap-arquiteto.canvas"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/03 System Design/Treinamento de Entrevistas.md",
+                "file": "roadmap-arquiteto.canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Treinamento de Entrevistas"
+              "title": "Links inversos para roadmap-arquiteto.canvas"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/03 System Design/Treinamento de Entrevistas.md",
+                "file": "roadmap-arquiteto.canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Treinamento de Entrevistas"
+              "title": "Links de saída para roadmap-arquiteto.canvas"
             }
           },
           {
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/03 System Design/Treinamento de Entrevistas.md",
+                "file": "roadmap-arquiteto.canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Treinamento de Entrevistas"
+              "title": "Sumário de roadmap-arquiteto.canvas"
             }
           }
         ]
@@ -183,8 +186,23 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4fd80035aebcea89",
+  "active": "b3b92ad99c7d9688",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20260423192929.png",
+    "Imagens/Pasted image 20260423192843.png",
+    "Imagens/Pasted image 20260423192957.png",
+    "Imagens/Programador Júnior.png",
+    "Imagens/Pasted image 20260423194557.png",
+    "Imagens/Pasted image 20260423194503.png",
+    "Imagens/Pasted image 20260423193059.png",
+    "Imagens",
+    "Nova pasta",
+    "Pasted image 20260423194557.png",
+    "Pasted image 20260423194503.png",
+    "Pasted image 20260423193059.png",
+    "Pasted image 20260423192957.png",
+    "roadmap-arquiteto.canvas.canvas",
+    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/03 System Design/Treinamento de Entrevistas.md",
     "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/02 AWS Certified/Certificações.md",
     "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Performance Anti-Patterns.md",
     "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Redução de carga e latência.md",
@@ -214,25 +232,10 @@
     "Linguagens e Frameworks/Java/Preparação para entrevistas/Conteúdo/02 Base de Programação (Java Core)",
     "Linguagens e Frameworks/Java/Preparação para entrevistas/Conteúdo",
     "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo/Domínio - O que é.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Fundamentos da WEB.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo/Como funciona um DNS.md",
     "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Segurança/Conteúdo",
     "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo",
     "Linguagens e Frameworks",
-    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo",
-    "O mapa do arquiteto/01 - Do zero ao Jr/07 Docker/Conteúdo",
-    "Sem título.canvas",
     "O mapa do arquiteto/01 - Do zero ao Jr/Sem título.canvas",
-    "O mapa do arquiteto/01 - Do zero ao Jr/Fundamentos/Sem título.canvas",
-    "O mapa do arquiteto/Imagens/Pasted image 20260423140724.png",
-    "O mapa do arquiteto/Imagens/Pasted image 20260423140008.png",
-    "O mapa do arquiteto/Imagens/Pasted image 20260423140002.png",
-    "O mapa do arquiteto/Imagens/Pasted image 20260423134559.png",
-    "O mapa do arquiteto/Imagens/Pasted image 20260423134453.png",
-    "O mapa do arquiteto/Imagens/Pasted image 20260423134328.png",
-    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo/Pasted image 20260423121935.png",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/05 Arquitetura de Microsserviços/Pasted image 20260423115252.png",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/04 Monolito Modular/Pasted image 20260423115132.png",
-    "O mapa do arquiteto/02 - Do Jr ao Pl-Sr/09 Básico das Cloud Providers/Pasted image 20260423112732.png"
+    "O mapa do arquiteto/01 - Do zero ao Jr/Fundamentos/Sem título.canvas"
   ]
 }

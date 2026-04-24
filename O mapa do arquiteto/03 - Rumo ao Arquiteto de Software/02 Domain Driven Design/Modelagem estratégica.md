@@ -1,3 +1,4 @@
+
 - Linguagem Ubíqua
 - Domínio e Subdomínio
 - Bounded Contexts

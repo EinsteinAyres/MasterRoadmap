@@ -54,5 +54,5 @@ O que é multi-stage build?::Construir imagem em etapas para otimizar tamanho
 ---
 
 ## 🔗 Conexões
-- [[🐳Docker]]
+- [[Docker]]
 - [[CI/CD]]

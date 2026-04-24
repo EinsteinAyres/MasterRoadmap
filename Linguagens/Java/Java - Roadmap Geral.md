@@ -104,13 +104,13 @@
 
 ## 📌 8. Framework Java (CORE DO MERCADO)
 
-- [ ]  [[Spring Boot]] (FOCO TOTAL)
+- [ ]  [[🌱 Spring Boot Roadmap (2026)]] (FOCO TOTAL)
 - [ ]  Spring Data JPA
 - [ ]  Hibernate
 
 Extras:
 
-- [ ]  [[Quarkus]]
+- [ ]  [[⚛️ Quarkus Roadmap (2026)]]
 - [ ]  Play Framework
 
 ---

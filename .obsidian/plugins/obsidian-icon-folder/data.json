@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🟢",
+      "🥬",
+      "⚛",
+      "🦁",
+      "🖼"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,13 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Frameworks": "🛠",
+  "Linguagens": "💻",
+  "O mapa do arquiteto": "🗺",
+  "Imagens": "🖼",
+  "Frameworks/NestJs": "🦁",
+  "Frameworks/Quarkus": "⚛",
+  "Frameworks/Spring": "🥬",
+  "Linguagens/Node": "🟢"
 }

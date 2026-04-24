@@ -1,343 +1,295 @@
-# 🧠 ROADMAP ESTRATÉGICO – QUARKUS (2026+)
+
+## 🔰 1. FUNDAMENTOS (BASE INEGOCIÁVEL)
+
+> Sem isso, Quarkus vira só “Spring Boot com outra cara”
+
+### 1.1 Java Moderno
+
+- [ ]  [[Java 17+]]
+- [ ]  Streams API
+- [ ]  Optional
+- [ ]  Records
+- [ ]  Lambdas
 
 ---
 
-# 🧩 PARTE 1 – NÚCLEO QUE GERA VALOR IMEDIATO
+### 1.2 Programação Orientada a Objetos
 
-├─ APIs Profissionais (JAX-RS + validação + padrão de resposta)  
-├─ Segurança Essencial (JWT + OAuth2 + OIDC/Keycloak)  
-└─ Persistência Real (Hibernate ORM + Panache + transações)
-
----
-
-# ⚡ PARTE 2 – ESCALABILIDADE E ARQUITETURA
-
-├─ Clean + Hexagonal + DDD tático  
-├─ Modularização (monolito bem estruturado)  
-├─ Reatividade (Mutiny + non-blocking I/O)  
-└─ Cache estratégico (Quarkus Cache + Redis)
+- [ ]  Encapsulamento
+- [ ]  Herança
+- [ ]  Polimorfismo
+- [ ]  Interfaces
+- [ ]  SOLID (🔥 obrigatório)
 
 ---
 
-# ☁️ PARTE 3 – DEVOPS E ENTREGA CONTÍNUA
+### 1.3 Concorrência e Performance
 
-├─ Docker + build otimizado  
-├─ Native Image (GraalVM)  
-├─ CI/CD com testes + quality gates  
-└─ Deploy cloud-native (Kubernetes / OpenShift)
-
----
-
-# 📊 PARTE 4 – QUALIDADE E OBSERVABILIDADE
-
-├─ Testes (Quarkus Test + Testcontainers)  
-├─ Observabilidade (Micrometer + logs + tracing)  
-└─ Resiliência (Fault Tolerance + retry + timeout)
+- [ ]  Threads
+- [ ]  Virtual Threads (Java moderno)
+- [ ]  Java Memory Model
 
 ---
 
-# 🚀 PARTE 5 – DIFERENCIAIS DE ALTO IMPACTO
+## ⚙️ 2. FUNDAMENTOS DO QUARKUS (CORE)
 
-├─ System Design aplicado a APIs  
-├─ Documentação (OpenAPI + ADRs)  
-├─ Microsserviços com Quarkus  
-├─ Performance tuning (JVM + Native + DB)  
-└─ Soft skills técnicas (design, trade-offs)
+> Aqui começa o diferencial real
 
----
+### 2.1 O que é Quarkus
 
-# 📘 SUMÁRIO ESTRATÉGICO – QUARKUS
+- [ ]  Arquitetura cloud-native
+- [ ]  GraalVM (native image)
+- [ ]  Boot ultra rápido
 
 ---
 
-## 🔰 1. FUNDAMENTOS DO QUARKUS (BASE INEGOCIÁVEL)
+### 2.2 Estrutura do projeto
 
-> Objetivo: não ser “dev que só usa extensão sem entender”
-
----
-
-### 1.1 Core do Quarkus
-
-- Arquitetura cloud-native
-- Build-time vs runtime
-- Extensões Quarkus (⚠️ conceito central)
-- Dev mode (hot reload)
+- [ ]  [[Quarkus CLI]]
+- [ ]  Estrutura Maven/Gradle
+- [ ]  Dev mode (hot reload)
 
 ---
 
-### 1.2 CDI (Dependency Injection)
+### 2.3 Extensões Quarkus (🔥 CORE)
 
-- Injeção de dependência (CDI)
-- Beans e lifecycle
-- Escopos (@ApplicationScoped, etc.)
+- [ ]  Conceito de extensions
+- [ ]  RESTEasy
+- [ ]  Hibernate ORM
+- [ ]  Panache
 
----
-
-### 1.3 Arquitetura do framework
-
-- Quarkus container
-- Como o Quarkus otimiza inicialização
-- Diferença para Spring (build-time optimization)
+👉 Diferente do Spring, Quarkus é **extension-driven**
 
 ---
 
-## ⚙️ 2. QUARKUS CORE (CORE DO MERCADO)
-
-> Aqui começa o backend real
-
----
-
-### 2.1 Base
-
-- Quarkus CLI
-- application.properties
-- Profiles (dev, prod)
-- Extensions
-
----
-
-### 2.2 Web
-
-- JAX-RS (@Path, @GET, @POST)
-- RESTEasy Reactive
-- DTOs
-- Validação (Bean Validation)
-
----
-
-### 2.3 Boas práticas
-
-- Padronização de resposta
-- Tratamento global de erro
-- Versionamento de API
-
----
-
-## 🌐 3. BACKEND CORE (DINHEIRO DO MERCADO)
-
----
+## 🌐 3. BACKEND CORE (MERCADO REAL)
 
 ### 3.1 APIs REST
 
-- CRUD estruturado
-- Boas práticas REST
-- OpenAPI / Swagger
+- [ ]  [[JAX-RS]]
+- [ ]  RESTEasy Reactive
+- [ ]  JSON (Jackson)
+- [ ]  OpenAPI / Swagger
 
 ---
 
-### 3.2 Segurança (🔥 ESSENCIAL)
+### 3.2 Validação
 
-- JWT
-- OAuth2
-- OIDC (Keycloak)
-- Segurança de APIs
-
----
-
-### 3.3 Persistência
-
-- Hibernate ORM
-- Panache (🔥 diferencial)
-- Transações (@Transactional)
+- [ ]  Bean Validation
+- [ ]  DTOs
+- [ ]  Tratamento de erros
 
 ---
 
-## 🧠 4. BANCO DE DADOS (NÍVEL PLENO)
+### 3.3 Comunicação
+
+- [ ]  REST APIs
+- [ ]  GraphQL
+- [ ]  gRPC
 
 ---
 
-### 4.1 Modelagem
+## 🧠 4. ARQUITETURA COM QUARKUS (PLENO → SENIOR)
 
-- Entidades
-- Relacionamentos
+### 4.1 Clean Architecture
 
----
-
-### 4.2 Performance
-
-- Indexação
-- Query tuning
-- Evitar N+1
+- [ ]  Separação de camadas
+- [ ]  Use cases
+- [ ]  Ports & Adapters
 
 ---
 
-### 4.3 Estratégias
+### 4.2 DDD
 
-- Lazy vs Eager
-- Paginação
-- Projections
-
----
-
-## 🧠 5. ARQUITETURA E DESIGN
+- [ ]  Entidades
+- [ ]  Value Objects
+- [ ]  Aggregates
 
 ---
 
-### 5.1 Arquitetura moderna
+### 4.3 Arquitetura modular
 
-- Clean Architecture
-- Hexagonal Architecture
-- DDD (tático)
-
----
-
-### 5.2 Estrutura de projeto
-
-- Resource → Service → Repository
-- Separação de responsabilidades
+- [ ]  Módulos por domínio
+- [ ]  Baixo acoplamento
 
 ---
 
-### 5.3 Design Patterns
+## 🧱 5. BANCO DE DADOS
 
-- Strategy
-- Factory
-- Builder
+### 5.1 ORM
 
----
-
-## ⚡ 6. PERFORMANCE E ESCALABILIDADE
+- [ ]  Hibernate ORM
+- [ ]  [[Panache]] (🔥 diferencial Quarkus)
 
 ---
 
-### 6.1 Cache
+### 5.2 Integração
 
-- Quarkus Cache
-- Redis
-- Estratégias de invalidação
-
----
-
-### 6.2 Reatividade (🔥 DIFERENCIAL)
-
-- Mutiny (Uni/Multi)
-- Non-blocking APIs
-- Hibernate Reactive
+- [ ]  Repositories
+- [ ]  Transações
+- [ ]  Query otimizada
 
 ---
 
-### 6.3 API performance
+### 5.3 Performance
 
-- Paginação
-- Compressão
-- Redução de payload
-
----
-
-## 🔥 7. JVM & NATIVE PERFORMANCE (DIFERENCIAL)
+- [ ]  Indexação
+- [ ]  Lazy vs Eager
+- [ ]  Query tuning
 
 ---
 
-- GraalVM (Native Image)
-- Startup ultra rápido
-- Baixo consumo de memória
-- GC tuning
+## 🔐 6. SEGURANÇA
+
+- [ ]  [[JWT]]
+- [ ]  [[OAuth2]]
+- [ ]  [[OIDC (Keycloak)]]
+- [ ]  RBAC
+- [ ]  Segurança de APIs
 
 ---
 
-## 📡 8. MICROSERVIÇOS (QUARKUS CLOUD NATIVE)
+## 📡 7. REATIVIDADE (🔥 DIFERENCIAL FORTE)
+
+> Aqui Quarkus brilha
+
+### 7.1 Programação reativa
+
+- [ ]  Mutiny API
+- [ ]  Uni / Multi
+- [ ]  Non-blocking I/O
 
 ---
 
-- Comunicação REST
-- Kafka / RabbitMQ (SmallRye)
-- Event-driven architecture
-- Service communication patterns
+### 7.2 Reactive stack
+
+- [ ]  RESTEasy Reactive
+- [ ]  Hibernate Reactive
 
 ---
 
-## ☁️ 9. DEVOPS E CLOUD
+## ⚡ 8. PERFORMANCE E ESCALABILIDADE
+
+### 8.1 Native Image
+
+- [ ]  [[GraalVM]]
+- [ ]  Build native
+- [ ]  Otimização de memória
 
 ---
 
-### 9.1 Containers
+### 8.2 Performance
 
-- Docker
-- Imagem otimizada (JVM vs Native)
-
----
-
-### 9.2 CI/CD
-
-- Pipelines
-- Build native
-- Testes automatizados
+- [ ]  Startup rápido
+- [ ]  Baixo consumo
+- [ ]  Benchmarking
 
 ---
 
-### 9.3 Deploy
+### 8.3 Escala
 
-- Kubernetes
-- OpenShift (🔥 forte no Quarkus)
-- Cloud (AWS / Azure / GCP)
+- [ ]  Horizontal scaling
+- [ ]  Stateless APIs
+- [ ]  Load balancing
+
+---
+
+## 📡 9. MENSAGERIA & EVENTOS
+
+- [ ]  [[Kafka]]
+- [ ]  [[RabbitMQ]]
+- [ ]  SmallRye Messaging
+- [ ]  Event-driven architecture
 
 ---
 
 ## 📊 10. OBSERVABILIDADE
 
----
+- [ ]  Logging (JBoss Logging)
+- [ ]  Metrics (Micrometer)
+- [ ]  Tracing (OpenTelemetry)
 
-- Logging (JBoss Logging)
-- Métricas (Micrometer)
-- Tracing (OpenTelemetry)
+Ferramentas:
 
----
-
-## 🧪 11. TESTES (REQUISITO DE MERCADO)
-
----
-
-- Quarkus Test
-- Testes unitários
-- Testes de integração
-- Testcontainers
+- Prometheus
+- Grafana
 
 ---
 
-## 🌍 12. CONCEITOS DE SISTEMA
+## 🧪 11. TESTES
+
+- [ ]  Quarkus Test
+- [ ]  Testes unitários
+- [ ]  Testes de integração
+- [ ]  Testcontainers
 
 ---
 
-- HTTP
-- DNS
-- Load balancing
-- Latência
+## ☁️ 12. DEVOPS & CLOUD (OBRIGATÓRIO)
+
+### 12.1 Containers
+
+- [ ]  [[Docker]]
+- [ ]  [[Kubernetes]]
+- [ ]  OpenShift (🔥 forte com Quarkus)
 
 ---
 
-## 🚀 13. DIFERENCIAIS PARA 2026–2030
+### 12.2 Deploy
+
+- [ ]  Build otimizado
+- [ ]  Native deploy
+- [ ]  CI/CD
 
 ---
 
-- Reactive architecture
-- Native-first systems
-- Event-driven architecture
-- Observabilidade avançada
-- Performance engineering
-- System Design
+### 12.3 Cloud
+
+- [ ]  AWS / Azure / GCP
+- [ ]  Serverless (Quarkus + Lambda)
 
 ---
 
-# 🧭 ORDEM IDEAL DE ESTUDO (ESTRATÉGICA)
+## 🧠 13. SYSTEM DESIGN (NÍVEL SENIOR)
 
-1. Fundamentos do Quarkus (CDI + extensões)
+- [ ]  Sistemas distribuídos
+- [ ]  Trade-offs
+- [ ]  Latência vs consistência
+- [ ]  Design escalável
+
+---
+
+## 🚀 14. DIFERENCIAIS (TOP 10%)
+
+- [ ]  Reactive architecture
+- [ ]  Native builds (GraalVM)
+- [ ]  Microservices avançados
+- [ ]  Event sourcing
+- [ ]  CQRS
+- [ ]  Service mesh
+
+---
+
+# 🧭 ORDEM IDEAL DE ESTUDO
+
+1. Java moderno (17+)
 2. APIs REST (JAX-RS)
-3. Hibernate + Panache
-4. Segurança (JWT + OIDC)
-5. Arquitetura (Clean)
-6. Reatividade (Mutiny)
-7. Mensageria (Kafka)
-8. Native Image (GraalVM)
-9. Docker + deploy
-10. Microservices + cloud
+3. Quarkus básico (CLI + extensões)
+4. Hibernate + Panache
+5. Segurança (JWT + OIDC)
+6. Arquitetura (Clean + DDD)
+7. Reatividade (Mutiny)
+8. Mensageria (Kafka)
+9. Native Image (GraalVM)
+10. Cloud + Kubernetes
 
 ---
 
-# 🎯 VISÃO DE MERCADO (REALISTA)
+# 🎯 VISÃO DE MERCADO
 
 Se você dominar:
 
-- Quarkus + Java moderno
+- Java + Quarkus
 - APIs REST
 - Hibernate + Panache
 - Segurança básica
@@ -350,7 +302,7 @@ Se você dominar:
 Se adicionar:
 
 - Reatividade
-- Native builds (GraalVM)
+- Native builds
 - Microservices
 - Mensageria
 - Observabilidade
@@ -361,9 +313,10 @@ Se adicionar:
 
 # 🧠 INSIGHT FINAL
 
-> Spring Boot domina o mercado  
-> Quarkus domina performance e cloud
+> Spring Boot resolve com maturidade  
+> Quarkus resolve com performance
 
 Se você dominar Quarkus:
 
-👉 Você se posiciona como dev de **alta eficiência e custo otimizado em cloud**
+👉 Você vira o tipo de dev que empresas usam para  
+**reduzir custo, escalar sistemas e rodar em cloud de verdade**

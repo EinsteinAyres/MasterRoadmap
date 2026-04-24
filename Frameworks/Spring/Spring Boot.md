@@ -1,356 +1,197 @@
-# 🧠 ROADMAP ESTRATÉGICO – SPRING BOOT (2026+)
+
+## 📌 1. Fundamentos do Spring (BASE OBRIGATÓRIA)
+
+### 🔹 Conceitos
+
+- [ ]  O que é Spring Framework
+- [ ]  Por que usar Spring
+- [ ]  Arquitetura do Spring
+
+### 🔹 Core
+
+- [ ]  IoC (Inversion of Control)
+- [ ]  Dependency Injection
+- [ ]  Beans
+- [ ]  Bean Scope
+- [ ]  Lifecycle de Beans
+
+### 🔹 Annotations (🔥 MUITO COBRADO)
+
+- [ ]  @Component
+- [ ]  @Service
+- [ ]  @Repository
+- [ ]  @Controller
+- [ ]  @Autowired
 
 ---
 
-# 🧩 PARTE 1 – NÚCLEO QUE GERA VALOR IMEDIATO
+## 📌 2. Spring Boot (CORE)
 
-├─ APIs Profissionais (REST + validação + padrão de resposta)  
-├─ Segurança Essencial (Spring Security + JWT + OAuth2)  
-└─ Persistência Real (JPA + Hibernate + transações)
+(Baseado no centro do diagrama da página 1 )
 
----
-
-# ⚡ PARTE 2 – ESCALABILIDADE E ARQUITETURA
-
-├─ Clean + Hexagonal + DDD tático  
-├─ Modularização (monolito bem estruturado)  
-├─ Assincronismo (events + filas + @Async)  
-└─ Cache estratégico (Spring Cache + Redis)
+- [ ]  O que é Spring Boot
+- [ ]  Auto Configuration
+- [ ]  Starter Dependencies
+- [ ]  application.yml / properties
+- [ ]  Embedded Server (Tomcat)
 
 ---
 
-# ☁️ PARTE 3 – DEVOPS E ENTREGA CONTÍNUA
+## 📌 3. Spring MVC (APIs REST)
 
-├─ Docker + build otimizado  
-├─ CI/CD com testes + quality gates  
-└─ Deploy cloud-ready (profiles + envs)
+- [ ]  Arquitetura MVC
+- [ ]  Controllers
+- [ ]  @RestController
+- [ ]  @RequestMapping
+- [ ]  @GetMapping / @PostMapping
+- [ ]  DTOs
+- [ ]  Validação (@Valid)
 
----
+🔥 Enriquecimento:
 
-# 📊 PARTE 4 – QUALIDADE E OBSERVABILIDADE
-
-├─ Testes (unitário + integração + MockMvc)  
-├─ Observabilidade (Actuator + logs + métricas)  
-└─ Resiliência (Circuit Breaker + retry + timeout)
-
----
-
-# 🚀 PARTE 5 – DIFERENCIAIS DE ALTO IMPACTO
-
-├─ System Design aplicado a APIs  
-├─ Documentação (OpenAPI + ADRs)  
-├─ Spring Cloud (microservices)  
-├─ Performance tuning (JVM + DB + API)  
-└─ Soft skills técnicas (design, trade-offs)
+- [ ]  Tratamento global de exceções (@ControllerAdvice)
+- [ ]  Padronização de response (ResponseEntity)
 
 ---
 
-# 📘 SUMÁRIO ESTRATÉGICO – SPRING BOOT
+## 📌 4. Persistência de Dados
+
+(Baseado em Spring Data + Hibernate )
+
+### 🔹 JPA / Hibernate
+
+- [ ]  Entidades (@Entity)
+- [ ]  Relacionamentos (OneToMany, ManyToOne…)
+- [ ]  Entity Lifecycle
+- [ ]  Transactions (@Transactional)
+
+### 🔹 Spring Data
+
+- [ ]  JPA Repository
+- [ ]  Query Methods
+- [ ]  @Query
+
+🔥 Avançado (diferencial):
+
+- [ ]  N+1 problem
+- [ ]  FetchType.LAZY vs EAGER
+- [ ]  Performance de queries
 
 ---
 
-## 🔰 1. FUNDAMENTOS DO SPRING (BASE INEGOCIÁVEL)
+## 📌 5. Segurança (Spring Security)
 
-> Objetivo: não ser “dev que só usa annotation sem entender”
+(Parte esquerda do diagrama )
 
----
+- [ ]  Authentication
+- [ ]  Authorization
+- [ ]  JWT
+- [ ]  OAuth2
 
-### 1.1 Core do Spring
+🔥 Enriquecimento:
 
-- IoC (Inversion of Control)
-- Dependency Injection
-- Beans e lifecycle
-- Bean scopes
-
----
-
-### 1.2 Annotations essenciais (🔥 MUITO COBRADO)
-
-- @Component / @Service / @Repository
-- @Autowired
-- @Configuration
-- @Bean
+- [ ]  Filtros de segurança
+- [ ]  SecurityFilterChain
+- [ ]  PasswordEncoder
 
 ---
 
-### 1.3 Arquitetura do Spring
+## 📌 6. AOP (Aspect Oriented Programming)
 
-- Container Spring
-- Contexto de aplicação
-- Como o Spring gerencia dependências
-
----
-
-## ⚙️ 2. SPRING BOOT (CORE DO MERCADO)
-
-> Aqui começa o backend real
+- [ ]  Conceito de AOP
+- [ ]  @Aspect
+- [ ]  Logging com AOP
+- [ ]  Cross-cutting concerns
 
 ---
 
-### 2.1 Base
+## 📌 7. Testes (MUITO COBRADO)
 
-- Auto Configuration
-- Starters
-- application.yml / properties
-- Profiles (dev, prod)
+(Baseado na seção Testing )
 
----
+- [ ]  @SpringBootTest
+- [ ]  @MockBean
+- [ ]  JUnit
+- [ ]  MockMvc
 
-### 2.2 Web
+🔥 Avançado:
 
-- @RestController
-- @RequestMapping
-- DTOs
-- Validação (@Valid)
+- [ ]  Testes de integração reais
+- [ ]  Testcontainers
 
 ---
 
-### 2.3 Boas práticas
+## 📌 8. Actuator & Observabilidade
 
-- Padronização de resposta
-- Tratamento global de erro (@ControllerAdvice)
-- Versionamento de API
+- [ ]  Spring Actuator
+- [ ]  Health checks
+- [ ]  Metrics
 
----
+🔥 Enriquecimento:
 
-## 🌐 3. BACKEND CORE (DINHEIRO DO MERCADO)
-
----
-
-### 3.1 APIs REST
-
-- CRUD bem estruturado
-- Boas práticas REST
-- OpenAPI / Swagger
+- [ ]  Micrometer
+- [ ]  Prometheus + Grafana
 
 ---
 
-### 3.2 Segurança (🔥 ESSENCIAL)
+## 📌 9. Microservices com Spring
 
-- Spring Security
-- JWT
-- OAuth2
-- OpenID Connect
+(Baseado na parte “Microservices / Spring Cloud” )
 
----
+### 🔹 Spring Cloud
 
-### 3.3 Persistência
+- [ ]  Eureka (Service Discovery)
+- [ ]  OpenFeign
+- [ ]  API Gateway
 
-- JPA / Hibernate
-- Spring Data JPA
-- Transações (@Transactional)
+### 🔹 Resiliência
 
----
+- [ ]  Circuit Breaker
+- [ ]  Retry
 
-## 🧠 4. BANCO DE DADOS (NÍVEL PLENO)
+### 🔹 Configuração
 
----
-
-### 4.1 Modelagem
-
-- Entidades
-- Relacionamentos
+- [ ]  Config Server
 
 ---
 
-### 4.2 Performance
+## 📌 10. Integração & Comunicação
 
-- Indexação
-- Query tuning
-- Evitar N+1
+- [ ]  REST Clients
+- [ ]  Feign Client
+- [ ]  WebClient
 
----
+🔥 Avançado:
 
-### 4.3 Estratégias
-
-- Lazy vs Eager
-- Paginação
-- Projections
+- [ ]  Comunicação assíncrona (RabbitMQ / Kafka)
 
 ---
 
-## 🧠 5. ARQUITETURA E DESIGN
+## 📌 11. Arquitetura Profissional (🔥 DIFERENCIAL)
+
+(Enriquecimento estratégico)
+
+- [ ]  Clean Architecture
+- [ ]  Hexagonal Architecture
+- [ ]  DDD (básico)
 
 ---
 
-### 5.1 Arquitetura moderna
+## 📌 12. Performance & Boas Práticas
 
-- Clean Architecture
-- Hexagonal Architecture
-- DDD (tático)
+(Baseado + enriquecido do backend performance)
 
----
-
-### 5.2 Estrutura de projeto
-
-- Controller → Service → Repository
-- Separação de responsabilidades
+- [ ]  Paginação
+- [ ]  Cache (Spring Cache + Redis)
+- [ ]  Connection Pool (Hikari)
+- [ ]  Compressão de resposta
+- [ ]  Profiling
 
 ---
 
-### 5.3 Design Patterns
+## 📌 13. Deploy & Produção
 
-- Strategy
-- Factory
-- Builder
-
----
-
-## ⚡ 6. PERFORMANCE E ESCALABILIDADE
-
----
-
-### 6.1 Cache
-
-- Spring Cache
-- Redis
-- Estratégias de invalidação
-
----
-
-### 6.2 Assincronismo
-
-- @Async
-- Eventos
-- Filas (RabbitMQ / Kafka)
-
----
-
-### 6.3 API performance
-
-- Paginação
-- Compressão
-- Redução de payload
-
----
-
-## 🔥 7. JVM E PERFORMANCE (DIFERENCIAL)
-
----
-
-- GC tuning
-- Heap memory
-- Thread management
-- Virtual Threads (Java moderno)
-
----
-
-## 📡 8. MICROSERVIÇOS (SPRING CLOUD)
-
----
-
-- Eureka (service discovery)
-- OpenFeign
-- API Gateway
-- Config Server
-- Circuit Breaker
-
----
-
-## ☁️ 9. DEVOPS E CLOUD
-
----
-
-### 9.1 Containers
-
-- Docker
-- Build de imagem
-
----
-
-### 9.2 CI/CD
-
-- Pipelines
-- Testes automatizados
-
----
-
-### 9.3 Deploy
-
-- Profiles
-- Variáveis de ambiente
-- Cloud (AWS)
-
----
-
-## 📊 10. OBSERVABILIDADE
-
----
-
-- Spring Actuator
-- Logs estruturados
-- Métricas (Micrometer)
-- Prometheus + Grafana
-
----
-
-## 🧪 11. TESTES (REQUISITO DE MERCADO)
-
----
-
-- Unitários (JUnit)
-- Integração
-- MockMvc
-- Testcontainers
-
----
-
-## 🌍 12. CONCEITOS DE SISTEMA
-
----
-
-- HTTP
-- DNS
-- Load balancing
-- Latência
-
----
-
-## 🚀 13. DIFERENCIAIS PARA 2026–2030
-
----
-
-- Event-driven architecture
-- Observabilidade avançada
-- Performance engineering
-- System Design
-- APIs resilientes
-
----
-
-# 🧭 ORDEM IDEAL DE ESTUDO (ESTRATÉGICA)
-
-1. Fundamentos do Spring (IoC + DI)
-2. Spring Boot básico
-3. APIs REST
-4. Banco + JPA
-5. Segurança (JWT)
-6. Arquitetura (Clean)
-7. Assincronismo + filas
-8. Cache + performance
-9. Docker + deploy
-10. Microservices + Spring Cloud
-
----
-
-# 🎯 VISÃO DE MERCADO (REALISTA)
-
-Se você dominar:
-
-- Spring Boot bem estruturado
-- APIs seguras
-- Banco otimizado
-- Arquitetura limpa
-
-👉 Você já está **Pleno forte**
-
----
-
-Se adicionar:
-
-- Performance real
-- Microservices
-- Observabilidade
-- System Design
-
-👉 Você entra no **nível Senior / Especialista**
+- [ ]  Docker
+- [ ]  Variáveis de ambiente
+- [ ]  Profiles (dev, prod)
+- [ ]  Logging estruturado

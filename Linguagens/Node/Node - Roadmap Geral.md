@@ -122,7 +122,7 @@
 ### Alternativas modernas
 
 - [ ]  Fastify
-- [ ]  [[NestJS]] (🔥 MUITO FORTE)
+- [ ]  [[🏆NestJS Roadmap (2026)]] (🔥 MUITO FORTE)
 - [ ]  Hono
 
 ---

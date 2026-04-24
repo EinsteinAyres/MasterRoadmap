@@ -1,200 +1,287 @@
-
-## 🔰 1. FUNDAMENTOS (BASE INEGOCIÁVEL)
-
-> Sem isso, Nest vira “copiar e colar decorator”
-
-### 1.1 JavaScript / TypeScript
-
-- [ ]  [[JavaScript moderno]]
-- [ ]  [[TypeScript]] (🔥 OBRIGATÓRIO)
-- [ ]  Tipagem forte
-- [ ]  Interfaces e tipos
-- [ ]  Generics
+# 🧠 ROADMAP ESTRATÉGICO – NESTJS (2026+)
 
 ---
 
-### 1.2 Node.js Core
+# 🧩 PARTE 1 – NÚCLEO QUE GERA VALOR IMEDIATO
 
-- [ ]  Event Loop
-- [ ]  Async/Await
-- [ ]  Promises
-- [ ]  Módulos (CommonJS vs ESM)
-- [ ]  Streams (diferencial)
+├─ APIs Profissionais (REST + DTO + validação + padrão de resposta)  
+├─ Segurança Essencial (JWT + Guards + Passport)  
+└─ Persistência Real (Prisma/TypeORM + transações)
 
 ---
 
-## ⚙️ 2. FUNDAMENTOS DO NESTJS (CORE DO FRAMEWORK)
+# ⚡ PARTE 2 – ESCALABILIDADE E ARQUITETURA
 
-> Aqui começa o “modo Spring Boot do Node”
-
-### 2.1 Estrutura do NestJS
-
-- [ ]  [[CLI NestJS]]
-- [ ]  Estrutura de pastas
-- [ ]  Arquitetura modular
+├─ Clean + DDD + arquitetura modular  
+├─ Modularização (feature modules + core/shared)  
+├─ Assincronismo (events + filas + workers)  
+└─ Cache estratégico (Redis + interceptors)
 
 ---
 
-### 2.2 Componentes principais
+# ☁️ PARTE 3 – DEVOPS E ENTREGA CONTÍNUA
 
-- [ ]  [[Controllers]]
-- [ ]  [[Providers (Services)]]
-- [ ]  [[Modules]]
-
-💡 Base do framework (equivalente a Controller/Service/Bean do Spring)
+├─ Docker + build otimizado  
+├─ CI/CD com testes + lint + quality gates  
+└─ Deploy cloud-ready (envs + config + secrets)
 
 ---
 
-### 2.3 Dependency Injection (🔥 CRÍTICO)
+# 📊 PARTE 4 – QUALIDADE E OBSERVABILIDADE
 
-- [ ]  Injeção de dependência
-- [ ]  Providers customizados
-- [ ]  Lifecycle dos providers
-
-👉 Isso é o que transforma Nest em framework enterprise
+├─ Testes (unitário + integração + e2e)  
+├─ Observabilidade (logs + métricas + tracing)  
+└─ Resiliência (retry + timeout + rate limiting)
 
 ---
 
-## 🌐 3. BACKEND CORE COM NEST
+# 🚀 PARTE 5 – DIFERENCIAIS DE ALTO IMPACTO
+
+├─ System Design aplicado a APIs Node  
+├─ Documentação (OpenAPI + ADRs)  
+├─ Microservices (Nest Transport Layer)  
+├─ Performance tuning (event loop + I/O + cache)  
+└─ Soft skills técnicas (trade-offs + arquitetura)
+
+---
+
+# 📘 SUMÁRIO ESTRATÉGICO – NESTJS
+
+---
+
+## 🔰 1. FUNDAMENTOS DO NEST (BASE INEGOCIÁVEL)
+
+> Objetivo: não ser “dev de decorator”
+
+---
+
+### 1.1 Core do NestJS
+
+- Arquitetura modular
+- Controllers, Providers e Modules
+- Ciclo de vida da aplicação
+- Estrutura do projeto
+
+---
+
+### 1.2 Dependency Injection (🔥 MUITO COBRADO)
+
+- Injeção de dependência
+- Providers customizados
+- Escopo de providers (singleton, request, transient)
+- Container do Nest
+
+---
+
+### 1.3 Decorators essenciais
+
+- @Controller / @Get / @Post
+- @Injectable
+- @Module
+- @Param / @Body / @Query
+
+---
+
+## ⚙️ 2. NESTJS CORE (MERCADO REAL)
+
+> Aqui começa o backend de verdade
+
+---
+
+### 2.1 Base
+
+- Nest CLI
+- Configuração de projeto
+- Estrutura modular
+
+---
+
+### 2.2 Web
+
+- Routing
+- DTOs
+- Validação (class-validator)
+- Pipes
+
+---
+
+### 2.3 Boas práticas
+
+- Padronização de resposta
+- Exception filters
+- Versionamento de API
+
+---
+
+## 🌐 3. BACKEND CORE (DINHEIRO DO MERCADO)
+
+---
 
 ### 3.1 APIs REST
 
-- [ ]  [[Routing]]
-- [ ]  DTOs
-- [ ]  Validação (class-validator)
-- [ ]  Pipes
+- CRUD bem estruturado
+- Boas práticas REST
+- OpenAPI / Swagger
 
 ---
 
-### 3.2 Documentação
+### 3.2 Segurança (🔥 ESSENCIAL)
 
-- [ ]  [[Swagger / OpenAPI]]
-- [ ]  Versionamento de API
-
----
-
-### 3.3 Comunicação
-
-- [ ]  JSON APIs
-- [ ]  Interceptors
-- [ ]  Middleware
+- JWT
+- Guards
+- Passport.js
+- RBAC (roles e permissões)
 
 ---
 
-## 🧠 4. ARQUITETURA COM NESTJS (PLENO → SENIOR)
+### 3.3 Persistência
 
-### 4.1 Clean Architecture
-
-- [ ]  Separação de camadas
-- [ ]  Use cases
-- [ ]  Ports & Adapters
-
----
-
-### 4.2 DDD
-
-- [ ]  Entidades
-- [ ]  Value Objects
-- [ ]  Aggregates
-- [ ]  Services de domínio
+- Prisma (🔥 recomendado)
+- TypeORM
+- Repository pattern
+- Transações
 
 ---
 
-### 4.3 Modularização
-
-- [ ]  Feature modules
-- [ ]  Shared modules
-- [ ]  Core modules
+## 🧠 4. BANCO DE DADOS (NÍVEL PLENO)
 
 ---
 
-## 🧱 5. BANCO DE DADOS
+### 4.1 Modelagem
 
-### 5.1 ORM / Query Builders
-
-- [ ]  [[Prisma]] (🔥 recomendado)
-- [ ]  TypeORM
-- [ ]  Sequelize
+- Entidades
+- Relacionamentos
 
 ---
 
-### 5.2 Integração
+### 4.2 Performance
 
-- [ ]  Repository pattern
-- [ ]  Migrations
-- [ ]  Seeds
-
----
-
-### 5.3 Performance
-
-- [ ]  Indexação
-- [ ]  Query tuning
-- [ ]  Connection pooling
+- Indexação
+- Query tuning
+- Evitar N+1
 
 ---
 
-## 🔐 6. SEGURANÇA
+### 4.3 Estratégias
 
-> Muito cobrado em entrevistas
-
-- [ ]  [[JWT]]
-- [ ]  [[Auth Guards]]
-- [ ]  [[Passport.js]]
-- [ ]  Roles & Permissions (RBAC)
-- [ ]  Hashing (bcrypt)
-- [ ]  Rate limiting
+- Paginação
+- Lazy vs eager
+- Cache de queries
 
 ---
 
-## 📡 7. COMUNICAÇÃO AVANÇADA
-
-### 7.1 Microservices (🔥 DIFERENCIAL)
-
-- [ ]  [[NestJS Microservices]]
-- [ ]  Transport layer (TCP, Redis, Kafka)
-- [ ]  Event-driven
+## 🧠 5. ARQUITETURA E DESIGN
 
 ---
 
-### 7.2 Mensageria
+### 5.1 Arquitetura moderna
 
-- [ ]  [[Kafka]]
-- [ ]  [[RabbitMQ]]
-- [ ]  Pub/Sub
-
----
-
-### 7.3 APIs alternativas
-
-- [ ]  [[GraphQL]]
-- [ ]  [[gRPC]]
+- Clean Architecture
+- DDD (tático)
+- Separação de camadas
 
 ---
 
-## ⚡ 8. PERFORMANCE E ESCALABILIDADE
+### 5.2 Estrutura de projeto
 
-### 8.1 Otimização
-
-- [ ]  Interceptors para performance
-- [ ]  Cache (Redis)
-- [ ]  Compressão
+- Controller → Service → Repository
+- Módulos por domínio
 
 ---
 
-### 8.2 Escala
+### 5.3 Design Patterns
 
-- [ ]  Load balancing
-- [ ]  Horizontal scaling
-- [ ]  Stateless APIs
+- Strategy
+- Factory
+- Observer (🔥 muito usado em eventos)
+- Dependency Injection Pattern
 
 ---
 
-## 📊 9. OBSERVABILIDADE
+## ⚡ 6. PERFORMANCE E ESCALABILIDADE
 
-- [ ]  Logging (Winston)
-- [ ]  Monitoring
-- [ ]  Tracing
+---
+
+### 6.1 Event Loop (🔥 DIFERENCIAL NODE)
+
+- Evitar bloqueio
+- Async eficiente
+- I/O não bloqueante
+
+---
+
+### 6.2 Cache
+
+- Redis
+- Cache interceptors
+- Estratégias de invalidação
+
+---
+
+### 6.3 API performance
+
+- Compressão
+- Redução de payload
+- Paginação
+
+---
+
+## 🔥 7. NODE PERFORMANCE (DIFERENCIAL)
+
+---
+
+- Worker Threads
+- Cluster
+- Child Process
+- Streams
+- Memory leaks
+
+---
+
+## 📡 8. MICROSERVIÇOS (NEST TRANSPORT)
+
+---
+
+- TCP transport
+- Redis transport
+- Kafka / RabbitMQ
+- Event-driven architecture
+
+---
+
+## ☁️ 9. DEVOPS E CLOUD
+
+---
+
+### 9.1 Containers
+
+- Docker
+- Build otimizado
+
+---
+
+### 9.2 CI/CD
+
+- Pipelines
+- Testes automatizados
+
+---
+
+### 9.3 Deploy
+
+- Variáveis de ambiente
+- Configuração por ambiente
+- Cloud (AWS, GCP)
+
+---
+
+## 📊 10. OBSERVABILIDADE
+
+---
+
+- Logging (Winston)
+- Métricas
+- Tracing
 
 Ferramentas:
 
@@ -204,82 +291,62 @@ Ferramentas:
 
 ---
 
-## 🧪 10. TESTES
-
-- [ ]  Testes unitários (Jest)
-- [ ]  Testes de integração
-- [ ]  E2E tests (Nest testing module)
-- [ ]  Mocking
+## 🧪 11. TESTES (REQUISITO DE MERCADO)
 
 ---
 
-## ☁️ 11. DEVOPS & CLOUD
-
-### 11.1 Infra
-
-- [ ]  [[Docker]]
-- [ ]  [[Kubernetes]]
+- Unitários (Jest)
+- Integração
+- E2E (Nest testing module)
+- Mocking
 
 ---
 
-### 11.2 Deploy
-
-- [ ]  CI/CD
-- [ ]  PM2
-- [ ]  Build otimizado
+## 🌍 12. CONCEITOS DE SISTEMA
 
 ---
 
-### 11.3 Cloud
-
-- [ ]  AWS / GCP
-- [ ]  Serverless (Nest + Lambda)
-
----
-
-## 🧠 12. SYSTEM DESIGN (NÍVEL SENIOR)
-
-- [ ]  Design de APIs escaláveis
-- [ ]  Trade-offs
-- [ ]  Consistência vs latência
-- [ ]  Sistemas distribuídos
+- HTTP
+- DNS
+- Load balancing
+- Latência
 
 ---
 
-## 🚀 13. DIFERENCIAIS (TOP 10%)
-
-- [ ]  CQRS no Nest
-- [ ]  Event Sourcing
-- [ ]  Arquitetura hexagonal
-- [ ]  Multi-tenant systems
-- [ ]  Feature flags
-- [ ]  Observabilidade avançada
+## 🚀 13. DIFERENCIAIS PARA 2026–2030
 
 ---
 
-# 🧭 ORDEM IDEAL DE ESTUDO
+- Event-driven architecture
+- Observabilidade avançada
+- Performance engineering (Node)
+- System Design
+- APIs resilientes
+
+---
+
+# 🧭 ORDEM IDEAL DE ESTUDO (ESTRATÉGICA)
 
 1. TypeScript + Node
-2. Estrutura do NestJS
-3. Controllers + Services + DI
-4. APIs REST + DTOs
-5. Banco de dados (Prisma/TypeORM)
-6. Autenticação (JWT + Guards)
-7. Arquitetura (Clean + DDD)
-8. Microservices
-9. Performance + Cache
-10. Cloud + Deploy
+2. Fundamentos do Nest (DI + modules)
+3. APIs REST
+4. Banco + ORM (Prisma)
+5. Segurança (JWT + Guards)
+6. Arquitetura (Clean + DDD)
+7. Assincronismo + eventos
+8. Cache + performance
+9. Docker + deploy
+10. Microservices
 
 ---
 
-# 🎯 VISÃO DE MERCADO
+# 🎯 VISÃO DE MERCADO (REALISTA)
 
 Se você dominar:
 
-- NestJS + TypeScript
-- APIs REST bem estruturadas
-- JWT + autenticação
-- Banco de dados com ORM
+- NestJS bem estruturado
+- APIs seguras
+- Banco otimizado
 - Arquitetura modular
 
 👉 Você já está **Pleno forte**
@@ -288,22 +355,21 @@ Se você dominar:
 
 Se adicionar:
 
-- Clean Architecture
-- DDD
+- Performance (event loop + threads)
 - Microservices
-- Mensageria
 - Observabilidade
+- System Design
 
-👉 Você vira **Senior / Arquiteto Node**
+👉 Você entra no **nível Senior / Especialista Node**
 
 ---
 
 # 🧠 INSIGHT FINAL
 
-> Express te dá liberdade  
-> Nest te dá arquitetura
+> Spring resolve complexidade com abstração  
+> Nest resolve complexidade com organização
 
 Se você dominar NestJS:
 
 👉 Você não é só dev Node  
-👉 Você está operando no nível de **engenharia backend enterprise**
+👉 Você opera no nível de **backend enterprise moderno**

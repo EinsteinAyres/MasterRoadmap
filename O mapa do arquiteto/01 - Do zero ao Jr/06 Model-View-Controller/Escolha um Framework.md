@@ -1,9 +1,10 @@
 
 https://cs50.harvard.edu/web/
 
-- NestJS
+- [[NestJS]]
 - Laravel
 - [[Spring Boot]]
+- [[Quarkus]]
 - Flask
 - Symphony
 - Rubi on Rails

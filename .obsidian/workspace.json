@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9b9d16ea0dd227",
+        "id": "66a165058a3496ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b92ad99c7d9688",
+            "id": "d6494035263ffff2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "roadmap-arquiteto.canvas.canvas",
-                "viewState": {
-                  "x": -4156.69351669983,
-                  "y": -664.2973670797817,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "roadmap-arquiteto.canvas"
+              "icon": "lucide-file",
+              "title": "🌱 Spring Boot Roadmap (2026)"
             }
           }
         ]
@@ -44,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MongoDB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap-arquiteto.canvas.canvas",
+                "file": "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para roadmap-arquiteto.canvas"
+              "title": "Links inversos para 🌱 Spring Boot Roadmap (2026)"
             }
           },
           {
@@ -167,8 +164,19 @@
               "icon": "lucide-list",
               "title": "Sumário de roadmap-arquiteto.canvas"
             }
+          },
+          {
+            "id": "736e084d06c63aff",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,58 +191,60 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b3b92ad99c7d9688",
+  "active": "d6494035263ffff2",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20260423192929.png",
-    "Imagens/Pasted image 20260423192843.png",
-    "Imagens/Pasted image 20260423192957.png",
-    "Imagens/Programador Júnior.png",
+    "Frameworks/Quarkus/⚛️ Quarkus Roadmap (2026).md",
+    "Frameworks/Spring/Spring Boot.md",
+    "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
+    "Frameworks/NestJs/🏆NestJS Roadmap (2026).md",
+    "Frameworks/Quarkus/Quarkus.md",
+    "Frameworks/NestJs/NestJS.md",
+    "tracked_files.json",
+    "Linguagens/Node/Node - Roadmap Geral.md",
+    "Frameworks/NestJs",
+    "Técnico",
+    "Frameworks",
+    "Linguagens/Node/Conteúdo",
+    "Linguagens/Node/Node.md",
+    "Linguagens/Java/Java.md",
+    "Linguagens/Java/Java - Roadmap Geral.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo/Como funciona um computador/Como funciona um computador.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Fundamentos.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/02 Domain Driven Design/Modelagem Tática.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/02 Domain Driven Design/Modelagem estratégica.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/03 Arquitetura em Camadas/Clean Arquitecture.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/03 Arquitetura em Camadas/Arquitetura Hexagonal.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/03 Arquitetura em Camadas/Onion Architecture.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/03 Arquitetura em Camadas/Leitura.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/04 Monolito Modular/Monolito Modular.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/04 Monolito Modular/Pasted image 20260423115132.png",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/05 Arquitetura de Microsserviços/Leitura.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/05 Arquitetura de Microsserviços/Sem título.md",
+    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/05 Arquitetura de Microsserviços/Pasted image 20260423115252.png",
     "Imagens/Pasted image 20260423194557.png",
     "Imagens/Pasted image 20260423194503.png",
     "Imagens/Pasted image 20260423193059.png",
-    "Imagens",
-    "Nova pasta",
-    "Pasted image 20260423194557.png",
-    "Pasted image 20260423194503.png",
-    "Pasted image 20260423193059.png",
-    "Pasted image 20260423192957.png",
+    "Imagens/Pasted image 20260423192957.png",
+    "Imagens/Pasted image 20260423192929.png",
+    "Imagens/Pasted image 20260423192843.png",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Escolha uma linguagem.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Paradigmas da programação.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Programação Orientada a Objetos.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Algoritmos e estruturas de dados.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Lógica de Programação.md",
+    "Linguagens/Node",
+    "Frameworks/Quarkus",
+    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Conteúdo",
+    "O mapa do arquiteto/01 - Do zero ao Jr/03 SQL e Bancos relacionais/Conteúdo",
+    "Linguagens/Java/Conteúdo/05 Concorrência & Performance",
     "roadmap-arquiteto.canvas.canvas",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/03 System Design/Treinamento de Entrevistas.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/02 AWS Certified/Certificações.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Performance Anti-Patterns.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Redução de carga e latência.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Banco de dados e estratégia de leitura.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/02 Escalabilidade e performance.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/05 Segurança como requisito.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/04 Disponibilidade - Resiliência - Tolerância a falhas.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/Rumo ao Arquiteto de Soluções.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/Rumo ao Arquiteto de Software - Tópicos.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/Tópicos.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/02 Domain Driven Design/Ferramentas.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/02 Domain Driven Design/Modelagem estratégica.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/02 Domain Driven Design/Modelagem Tática.md",
-    "O mapa do arquiteto/Largada.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/01 Arquitetura de Software/03 papéis e Responsabilidades/Papéis e Responsabilidades.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/01 Arquitetura de Software/01 Níveis de arquitetura/Níveis de arquitetura.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/Do zero ao Jr - Tópicos.md",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/01 Arquitetura de Software/03 papéis e Responsabilidades",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/01 Arquitetura de Software/02 Tipos de arquiteto",
-    "O mapa do arquiteto/03 - Rumo ao Arquiteto de Software/01 Arquitetura de Software/01 Níveis de arquitetura",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Segurança/Conteúdo/HTTP vs HTTPS.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Segurança/Segurança.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/07 Docker/Conteúdo/📦Conceitos de Conteinerização.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/07 Docker/🐳Docker.md",
-    "Linguagens e Frameworks/Java/Java - Roadmap Geral.md",
-    "Linguagens e Frameworks/Java/Preparação para entrevistas/Conteúdo/02 Base de Programação (Java Core)/Sintaxe básica.md",
-    "Linguagens e Frameworks/Java/Preparação para entrevistas/Conteúdo/02 Base de Programação (Java Core)",
-    "Linguagens e Frameworks/Java/Preparação para entrevistas/Conteúdo",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo/Domínio - O que é.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Segurança/Conteúdo",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo",
-    "Linguagens e Frameworks",
+    "Imagens/Programador Júnior.png",
+    "Pasted image 20260423194557.png",
     "O mapa do arquiteto/01 - Do zero ao Jr/Sem título.canvas",
     "O mapa do arquiteto/01 - Do zero ao Jr/Fundamentos/Sem título.canvas"
   ]

@@ -1,24 +1,21 @@
 
-**Tópicos**
+# **Tópicos**
 
-*[[ Fundamentos]]
 
-[[ Escolha uma linguagem]]
+* ## Trilha do Arquiteto
 
-[[SQL e Bancos de Dados Relacionais]]
+	- [[Do zero ao Jr - Tópicos]]
 
-[[Versionamento de Código]]
+	- [[Do Jr ao Pl Sr - Tópicos]]
 
-[[Repositórios Remotos]]
+	- [[Rumo ao Arquiteto de Software - Tópicos]]
 
-[[Redes e Internet]]
+	- [[Rumo ao Arquiteto de Soluções - Tópicos]]
 
-[[Fundamentos da WEB]]
 
-[[APIs & Integrações]]
+- ## Trilha Java
 
-[[Segurança]]
 
-[[Model View Controller]]
+	- [[Java - Roadmap Geral]]
+	- 
 
-[[🐳Docker]]

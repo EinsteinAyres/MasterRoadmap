@@ -2,12 +2,12 @@
 
 https://cs50.harvard.edu/technology/weeks/1/
 
-- [[Como funciona um computador]]
-- [[Como os programas rodam na memória]]
-- [[Como os processadores funcionam - a tirania do clock]]
-- [[Sobre sistemas operacionais - o maestro do caos]]
-- [[Diferença entre linguagem compilada X interpretada]]
-- [[Linux - o kernel e a linhagem Debian e Ubuntu]]
+- [ ] [[Como funciona um computador]]
+- [ ] [[Como os programas rodam na memória]]
+- [ ] [[Como os processadores funcionam - a tirania do clock]]
+- [ ] [[Sobre sistemas operacionais - o maestro do caos]]
+- [ ] [[Diferença entre linguagem compilada X interpretada]]
+- [ ] [[Linux - o kernel e a linhagem Debian e Ubuntu]]
 
 https://cs50.harvard.edu/business/2017/weeks/2/
 

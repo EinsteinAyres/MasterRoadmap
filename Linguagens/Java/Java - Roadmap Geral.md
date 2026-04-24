@@ -6,17 +6,19 @@
 - [ ]  [[HTTP vs HTTPS]]
 - [ ]  [[Como funciona um DNS]]
 - [ ]  [[Domínio - O que é]]
-- [ ]  Browsers (request lifecycle)
-- [ ]  Client vs Server
+- [ ]  [[Browsers]] (request lifecycle)
+- [ ] [[ Arquitetura Cliente X Servidor]]
 
 ---
 
 ## 📌 2. Base de Programação (Java Core)
 
 - [ ]  [[Sintaxe básica]]
-- [ ]  Tipos de dados, variáveis e escopo
+- [ ]  Tipos de dados
+- [ ]  Variáveis e escopo
 - [ ]  Condicionais e loops
-- [ ]  Arrays e Strings
+- [ ]  Arrays
+- [ ]  Strings
 - [ ]  Funções e métodos
 - [ ]  Estruturas de dados (List, Set, Map, Queue)
 
@@ -24,7 +26,7 @@
 
 ## 📌 3. Programação Orientada a Objetos (OOP)
 
-- [ ]  Classes e Objetos
+- [ ]  [[Classes e Objetos]]
 - [ ]  Encapsulamento
 - [ ]  Herança
 - [ ]  Polimorfismo
@@ -36,7 +38,7 @@
 
 ## 📌 4. Java Avançado
 
-- [ ]  Collections + Generics
+- [ ]  [[Collections e Generics]]
 - [ ]  Exceptions
 - [ ]  Streams API
 - [ ]  Lambdas
@@ -48,7 +50,7 @@
 
 ## 📌 5. Concorrência & Performance (🔥 MUITO COBRADO)
 
-- [ ]  Threads
+- [ ]  [[Threads]]
 - [ ]  Virtual Threads (Java moderno)
 - [ ]  Java Memory Model
 - [ ]  volatile / synchronized
@@ -56,20 +58,18 @@
 
 ---
 
-## 📌 6. Banco de Dados (Unificado)
-
-(Backend + Performance juntos)
+## 📌 6. Banco de Dados
 
 ### Fundamentos
 
-- [ ]  SQL (joins, indexes)
-- [ ]  ACID
+- [ ]  [[SQL e Bancos de Dados Relacionais]] (joins, indexes)
+- [ ]  [[ACID]]
 - [ ]  Transações
 - [ ]  Normalização vs Desnormalização
 
 ### Performance
 
-- [ ]  Indexação eficiente
+- [ ]  [[Indexação eficiente]]
 - [ ]  Evitar SELECT *
 - [ ]  Paginação eficiente
 - [ ]  N+1 problem
@@ -81,46 +81,47 @@
 
 - [ ]  Replicação
 - [ ]  Sharding
-- [ ]  CAP Theorem
+- [ ]  [[Teorema CAP]]
 
 ### Tipos
 
 - [ ]  Relacional (PostgreSQL, MySQL)
-- [ ]  NoSQL (MongoDB, Redis)
+- [ ]  NoSQL ([[MongoDB]], Redis)
 - [ ]  Cache DB (Redis)
 
 ---
 
 ## 📌 7. Backend & APIs
 
-- [ ]  REST
-- [ ]  JSON APIs
-- [ ]  OpenAPI / Swagger
-- [ ]  GraphQL (diferencial)
-- [ ]  gRPC (avançado)
+- [ ]  [[REST]]
+- [ ]  [[RESTful]]
+- [ ]  [[JSON]] APIs
+- [ ]  [[OpenAPI]] / [[Swagger]]
+- [ ]  [[GraphQL]] (diferencial)
+- [ ]  [[gRPC]] (avançado)
 
 ---
 
 ## 📌 8. Framework Java (CORE DO MERCADO)
 
-- [ ]  Spring Boot (FOCO TOTAL)
+- [ ]  [[Spring Boot]] (FOCO TOTAL)
 - [ ]  Spring Data JPA
 - [ ]  Hibernate
 
 Extras:
 
-- [ ]  Quarkus
+- [ ]  [[Quarkus]]
 - [ ]  Play Framework
 
 ---
 
 ## 📌 9. Segurança (Muito cobrado em entrevistas)
 
-- [ ]  JWT
-- [ ]  OAuth2
+- [ ]  [[JWT]]
+- [ ]  [[OAuth2]]
 - [ ]  Authentication vs Authorization
 - [ ]  Hashing (bcrypt, scrypt)
-- [ ]  HTTPS / SSL
+- [ ]  [[HTTPS]] / [[SSL]]
 - [ ]  OWASP Top 10
 - [ ]  Rate Limiting / Throttling
 
@@ -128,8 +129,8 @@ Extras:
 
 ## 📌 10. Caching (Performance)
 
-- [ ]  Cache (HTTP, Server, CDN)
-- [ ]  Redis / Memcached
+- [ ]  [[Cache]] ([[HTTP]], [[Server]], [[CDN]])
+- [ ]  [[Redis]] / Memcached
 - [ ]  Cache patterns:
     - [ ]  Cache Aside
     - [ ]  Write Through
@@ -140,34 +141,32 @@ Extras:
 
 ## 📌 11. Arquitetura de Software
 
-(Unificação do backend + design)
-
-- [ ]  Clean Architecture
-- [ ]  DDD
-- [ ]  SOLID
-- [ ]  Design Patterns (GoF)
+- [ ]  [[Clean Architecture]]
+- [ ]  [[DDD]]
+- [ ]  [[SOLID]]
+- [ ]  [[Design Patterns]] (GoF)
 
 ### Arquiteturas
 
-- [ ]  Monolito
-- [ ]  Microservices
-- [ ]  SOA
-- [ ]  Serverless
+- [ ]  [[Monolito]]
+- [ ]  [[Microsserviços]]
+- [ ]  [[SOA]]
+- [ ]  Serveless
 
 ### Padrões avançados
 
-- [ ]  CQRS
-- [ ]  Event Sourcing
+- [ ]  [[CQRS]]
+- [ ]  [[Event Sourcing]]
 
 ---
 
 ## 📌 12. Comunicação & Assincronismo
 
-- [ ]  RabbitMQ
-- [ ]  Kafka
-- [ ]  Mensageria
-- [ ]  Background Jobs
-- [ ]  Event-driven architecture
+- [ ]  [[RabbitMQ]]
+- [ ]  [[Kafka]]
+- [ ]  [[Mensageria]]
+- [ ]  [[Background Jobs]]
+- [ ]  [[Event-driven architecture]]
 
 ---
 
@@ -175,49 +174,45 @@ Extras:
 
 (Unificado com performance)
 
-- [ ]  Load Balancing
-- [ ]  Horizontal vs Vertical Scaling
-- [ ]  Circuit Breaker
-- [ ]  Retry Pattern
-- [ ]  Backpressure
-- [ ]  Graceful Degradation
+- [ ]  [[Load Balancing]]
+- [ ]  [[Horizontal vs Vertical Scaling]]
+- [ ]  [[Circuit Breaker]]
+- [ ]  [[Retry Pattern]]
+- [ ]  [[Backpressure]]
+- [ ]  [[Graceful Degradation]]
 
 ---
 
 ## 📌 14. Performance Backend (🔥 DIFERENCIAL)
 
-(Extraído do PDF de performance )
-
-- [ ]  Compressão de respostas
-- [ ]  Redução de payload
-- [ ]  Streaming de dados
-- [ ]  Batch requests
-- [ ]  Minimizar latência
-- [ ]  Profiling de código
-- [ ]  Otimização de algoritmos
+- [ ]  [[Compressão de respostas]]
+- [ ]  [[Redução de payload]]
+- [ ]  [[Streaming de dados]]
+- [ ]  [[Batch requests]]
+- [ ]  [[Minimizar latência]]
+- [ ]  [[Profiling de código]]
+- [ ]  [[Otimização de algoritmos]]
 
 ---
 
 ## 📌 15. Observabilidade
 
-(Unificação de vários tópicos duplicados)
-
-- [ ]  Logs (SLF4J, Logback)
-- [ ]  Metrics
-- [ ]  Tracing
+- [ ]  [[Logs]] ([[SLF4J]], [[Logback]])
+- [ ]  [[Metrics]]
+- [ ]  [[Tracing]]
 
 Ferramentas:
 
-- [ ]  Prometheus
-- [ ]  Grafana
-- [ ]  ELK Stack
+- [ ]  [[Prometheus]]
+- [ ]  [[Grafana]]
+- [ ]  [[ELK Stack]]
 
 ---
 
 ## 📌 16. Testes (Unificado)
 
-- [ ]  Unit Testing (JUnit)
-- [ ]  Integration Testing
+- [ ]  [[Testes Unitários]] (JUnit)
+- [ ]  [[Testes Integrados]]
 - [ ]  REST Assured
 - [ ]  Mocking (Mockito)
 - [ ]  Teste de carga (JMeter)
@@ -226,18 +221,18 @@ Ferramentas:
 
 ## 📌 17. DevOps & Infra
 
-- [ ]  Git
-- [ ]  CI/CD
-- [ ]  Docker
-- [ ]  Kubernetes
-- [ ]  Nginx / Apache
+- [ ]  [[Git]]
+- [ ]  [[CICD]]
+- [ ]  [[Docker]]
+- [ ]  [[Kubernetes]]
+- [ ]  [[Nginx]] / [[Apache]]
 
 ---
 
 ## 📌 18. Build Tools
 
-- [ ]  Maven
-- [ ]  Gradle
+- [ ]  [[Maven]]
+- [ ]  [[Gradle]]
 
 ---
 
@@ -249,7 +244,7 @@ Ferramentas:
 
 ---
 
-## 📌 20. System Design (🔥 Nível Senior)
+## 📌 20. System Design
 
 - [ ]  Designing for scale
 - [ ]  Trade-offs

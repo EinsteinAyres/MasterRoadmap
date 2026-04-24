@@ -48,6 +48,6 @@ O que são cgroups?::Controle de uso de CPU e memória
 ---
 
 ## 🔗 Conexões
-- [[🐳Docker]]
+- [[Docker]]
 - [[Kubernetes]]
 - [[Microsserviços]]

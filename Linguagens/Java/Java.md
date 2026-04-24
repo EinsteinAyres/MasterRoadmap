@@ -1,36 +1,5 @@
 
 
-PARTE 1 – NÚCLEO QUE GERA VALOR IMEDIATO
-├─ APIs de Alto Desempenho (REST + gRPC)
-├─ Segurança Essencial (JWT + OAuth2 + OWASP)
-└─ Banco de Dados Real (SQL Performance + Transações + JPA)
-
-PARTE 2 – ESCALABILIDADE E RESILIÊNCIA
-├─ Clean + Hexagonal + DDD tático
-├─ Virtual Threads + GC tuning
-├─ Mensageria (RabbitMQ/Kafka + padrões)
-└─ Cache Estratégico (Redis + invalidação)
-
-PARTE 3 – DEVOPS E ENTREGA CONTÍNUA
-├─ Docker + Kubernetes mínimo
-├─ CI/CD com Quality Gates
-└─ Observabilidade (logs + métricas + tracing + Circuit Breaker)
-
-PARTE 4 – QUALIDADE E COLABORAÇÃO (NOVO)
-├─ Testes (unitário + integração + contrato)
-├─ Code Review e feedback técnico ← NOVO
-└─ Refatoração segura (Strangler pattern) ← NOVO
-
-PARTE 5 – DIFERENCIAIS DE ALTO IMPACTO
-├─ System Design para entrevistas
-├─ ADRs e documentação ARC42 ← NOVO
-├─ IA assistida no desenvolvimento ← NOVO
-├─ Go para serviços críticos
-└─ Soft skills técnicas (estimativa, negociação) ← NOVO
-
-
----
-
 # SUMÁRIO ESTRATÉGICO – BACKEND JAVA (2026+)
 
 ## 🔰 1. FUNDAMENTOS SÓLIDOS (BASE INEGOCIÁVEL)

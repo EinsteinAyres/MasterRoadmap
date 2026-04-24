@@ -19,4 +19,4 @@
 
 [[Model View Controller]]
 
-[[🐳Docker]]
+[[Docker]]

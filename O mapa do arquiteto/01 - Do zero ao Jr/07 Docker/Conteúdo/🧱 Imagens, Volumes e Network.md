@@ -55,5 +55,5 @@ O que é network bridge?::Rede padrão para containers
 ---
 
 ## 🔗 Conexões
-- [[🐳Docker]]
+- [[Docker]]
 - [[⚙️ Docker Compose]]

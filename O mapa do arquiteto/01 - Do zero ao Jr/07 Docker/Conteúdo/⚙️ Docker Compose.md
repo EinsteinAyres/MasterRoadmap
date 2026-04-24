@@ -66,5 +66,5 @@ Qual vantagem do Compose?::Orquestração simples de múltiplos serviços
 
 ## 🔗 Conexões
 - [[Microservices]]
-- [[🐳Docker]]
+- [[Docker]]
 - [[Kubernetes]]

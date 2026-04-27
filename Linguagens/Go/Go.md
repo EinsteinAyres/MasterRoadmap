@@ -1,3 +1,8 @@
+
+#curso #go 
+
+[Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/?couponCode=KEEPLEARNING)
+
 # 🧩 PARTE 1 – NÚCLEO QUE GERA VALOR IMEDIATO
 
 ├─ APIs de Alto Desempenho (REST + gRPC + net/http)  

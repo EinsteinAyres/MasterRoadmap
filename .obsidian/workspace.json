@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "66a165058a3496ae",
+        "id": "d9396209e96f29fa",
         "type": "tabs",
         "children": [
           {
-            "id": "d6494035263ffff2",
+            "id": "6ef4dbe3d938d216",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Linguagens/Java/Java - Roadmap Geral.md",
-                "mode": "source",
-                "source": false
+                "file": "roadmap-arquiteto-com-roadmaps.canvas",
+                "viewState": {
+                  "x": 10885.714072963276,
+                  "y": -379.3645675164551,
+                  "zoom": -0.6666666666666663
+                }
               },
-              "icon": "lucide-file",
-              "title": "Java - Roadmap Geral"
+              "icon": "lucide-layout-dashboard",
+              "title": "roadmap-arquiteto-com-roadmaps"
             }
           }
         ]
@@ -41,7 +44,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -53,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MongoDB",
+                "query": "Stack vs Heap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguagens/Java/Java - Roadmap Geral.md",
+                "file": "Pós/Engenharia de Software/Engenharia de Software - Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Java - Roadmap Geral"
+              "title": "Links inversos para Engenharia de Software - Roadmap"
             }
           },
           {
@@ -180,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,45 +199,47 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "d6494035263ffff2",
+  "active": "6ef4dbe3d938d216",
   "lastOpenFiles": [
+    "roadmap-atualizado.canvas",
+    "roadmap-multi.canvas",
+    "roadmap-arquiteto-com-roadmaps.canvas",
+    "Pós/Cloud Computing/Cloud Computing - Roadmap.md",
+    "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
+    "Pós/Segurança da Informação/Segurança da Informação.pdf",
+    "Pós/Engenharia de Software/Engenharia de Software.pdf",
+    "Pós/Cloud Computing/Cloud Computing.pdf",
     "Linguagens/Java/Java.md",
-    "Linguagens/Java/Java - Roadmap Geral.md",
-    "Linguagens/Go/Go - Roadmap Geral.md",
     "Linguagens/Go/Go.md",
-    "Preparação para entrevistas/Entrevistas Java Pl Sr.md",
-    "Preparação para entrevistas",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Conteúdo/Teorema CAP.md",
-    "O mapa do arquiteto/04 - Rumo ao Arquiteto de Soluções/01 Requisitos Não Funcionais/Conteúdo",
-    "O mapa do arquiteto/02 - Do Jr ao Pl-Sr/01 Mais sobre bancos de dados/02 Clean Code Principles/Clean Code Principles.md",
-    "O mapa do arquiteto/02 - Do Jr ao Pl-Sr/01 Mais sobre bancos de dados/02 Clean Code Principles",
-    "Frameworks/NestJs/NestJS.md",
-    "Frameworks/NestJs/Conteúdo/1 Fundamentos",
-    "Frameworks/NestJs/🏆NestJS Roadmap (2026).md",
-    "Frameworks/NestJs/Conteúdo/1 Fundamentos/TypeScript.md",
-    "Frameworks/NestJs/Conteúdo/1 Fundamentos/JavaScript moderno.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/06 Model-View-Controller/Escolha um Framework.md",
-    "Frameworks/NestJs/Conteúdo",
-    "Frameworks/Quarkus/Conteúdo",
-    "Frameworks/Spring/Conteúdo",
-    "Frameworks/Quarkus/⚛️ Quarkus Roadmap (2026).md",
-    "Frameworks/Quarkus/Quarkus.md",
-    "Frameworks/Spring/Spring Boot.md",
-    "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
-    "roadmap-arquiteto.canvas.canvas",
-    "O mapa do arquiteto/01 - Do zero ao Jr/Do zero ao Jr - Tópicos.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/04 Versionamento de Código/Repositórios Remotos/Repositórios Remotos.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/04 Versionamento de Código/Versionamento de Código.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Escolha uma linguagem.md",
-    "tracked_files.json",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo/Browsers.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/Fundamentos da WEB/Conteúdo/Arquitetura Cliente X Servidor.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/03 SQL e Bancos relacionais/Conteúdo/ACID.md",
-    "O mapa do arquiteto/01 - Do zero ao Jr/03 SQL e Bancos relacionais/Conteúdo",
+    "Linguagens/Java/Java - Roadmap Geral.md",
+    "roadmap-arquiteto.canvas",
+    "Pós/Engenharia de Software/Engenharia de Software - Roadmap.md",
+    "Pós/Arquitetura de Software/software-architect.pdf",
+    "Pós/Arquitetura de Software/software-design-architecture.pdf",
+    "Pós/Segurança da Informação/cyber-security.pdf",
+    "Pós/Inteligência Artificial/IA - Roadmap.md",
+    "Pós/Desenvolvimento de Sistemas com Java/DSJ - Roadmap.md",
+    "Pós/Engenharia de Dados/Engenharia de Dados - Roadmap.md",
+    "Pós/Engenharia de Software/Engenharia de Dados.pdf",
+    "Pós/Cloud Computing",
+    "Pós/Arquitetura de Software",
+    "Linguagens/Java/Conteúdo/04 Java Avançado/Lambdas.md",
+    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Streams.md",
+    "Linguagens/Java/Conteúdo/04 Java Avançado/Exceptions.md",
     "Linguagens/Java/Conteúdo/04 Java Avançado/Collections e Generics.md",
-    "Linguagens/Java/Conteúdo/05 Concorrência & Performance/Threads.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Records.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Interfaces.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Imutabilidade.md",
+    "README.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Abstração.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Polimorfismo.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Herança.md",
+    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Encapsulamento.md",
     "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Classes e Objetos.md",
-    "Linguagens/Java/Conteúdo/04 Java Avançado",
+    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Queue.md",
+    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Map.md",
+    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Set.md",
+    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/List.md",
     "Imagens/Programador Júnior.png",
     "Imagens/Pasted image 20260423194557.png",
     "Imagens/Pasted image 20260423194503.png",

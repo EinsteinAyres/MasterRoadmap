@@ -1,8 +1,18 @@
 # 🚀 Roadmap Backend Java
 
+## 📃 0. Documentações Java
+
+https://docs.oracle.com/en/java/
+
+https://www.w3schools.com/java/default.asp
+
+### Links para praticar
+
+https://coddy.tech/journeys/java/
+
 ## 📌 1. Fundamentos da Computação & Internet
 
-- [ ]  [[Como a internet funciona]]
+- [x]  [[Como a internet funciona]]
 - [ ]  [[HTTP vs HTTPS]]
 - [ ]  [[Como funciona um DNS]]
 - [ ]  [[Domínio - O que é]]
@@ -13,35 +23,46 @@
 
 ## 📌 2. Base de Programação (Java Core)
 
-- [ ]  [[Sintaxe básica]]
-- [ ]  Tipos de dados
-- [ ]  Variáveis e escopo
-- [ ]  Condicionais e loops
-- [ ]  Arrays
-- [ ]  Strings
-- [ ]  Funções e métodos
-- [ ]  Estruturas de dados (List, Set, Map, Queue)
+- [ ]  [[Sintaxe básica]] 
+- [ ]  [[Stack]]
+- [ ]  [[Heap]]
+- [ ]  [[Garbage Collector]]
+- [ ]  [[Tipos de dados]]
+- [ ]  [[Variáveis e escopo]]
+- [ ]  [[Condicionais e loops]]
+- [ ]  [[Arrays]]
+- [ ]  [[Strings]]
+- [ ]  [[Funções]]
+- [ ]  [[Métodos]]
+- [ ]  [[ArrayList]]
+- [ ]  [[Streams]]
+- [ ] [[Estruturas de dados]]
+- [ ]  [[List]]
+- [ ] [[Set]]
+- [ ] [[Map]]
+- [ ] [[Queue]]
 
 ---
 
 ## 📌 3. Programação Orientada a Objetos (OOP)
 
 - [ ]  [[Classes e Objetos]]
-- [ ]  Encapsulamento
-- [ ]  Herança
-- [ ]  Polimorfismo
-- [ ]  Abstração
-- [ ]  Interfaces
-- [ ]  Imutabilidade e Records
+- [ ]  [[Encapsulamento]]
+- [ ]  [[Herança]]
+- [ ]  [[Polimorfismo]]
+- [ ]  [[Abstração]]
+- [ ]  [[Interfaces]]
+- [ ]  [[Imutabilidade]]
+- [ ]  [[Records]]
 
 ---
 
 ## 📌 4. Java Avançado
 
 - [ ]  [[Collections e Generics]]
-- [ ]  Exceptions
+- [ ]  [[Exceptions]]
 - [ ]  Streams API
-- [ ]  Lambdas
+- [ ]  [[Lambdas]]
 - [ ]  Optional
 - [ ]  Annotations
 - [ ]  Date/Time API

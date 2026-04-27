@@ -1,4 +1,11 @@
 
+#curso #java
+
+[Formação Java Developer](https://web.dio.me/track/81c4cf08-5cef-43f6-a579-1e0158bd9da6)
+
+[Java COMPLETO: Do Zero ao Profissional + Projetos](udemy.com/course/fundamentos-de-programacao-com-java/)
+
+[Java COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING)
 
 # SUMÁRIO ESTRATÉGICO – BACKEND JAVA (2026+)
 

@@ -1,4 +1,4 @@
-# 🚀 Roadmap do Arquiteto de Software
+# 🚀 Roadmap do Arquiteto de Soluções
 
 De código funcional → soluções escaláveis → visão de negócio
 
@@ -18,10 +18,14 @@ Aqui está sendo construído um Second Brain técnico, organizado no Obsidian e 
 
 ## 🗺️ Estrutura do conhecimento
 
-📁 Linguagens e Frameworks
+📁 Linguagens
  ├── Go
  ├── Java
- └── Spring
+ └── Node
+
+📁 Frameworks
+ ├── Spring
+ └── NestJS
 
 📁 O mapa do arquiteto
  ├── 01 - Do zero ao Jr

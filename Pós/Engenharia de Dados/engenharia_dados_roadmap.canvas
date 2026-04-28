@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"2","type":"text","text":"Fase 1\nFundamentos\n(SQL, Python, Docker)","x":-600,"y":200,"width":260,"height":120},
+		{"id":"3","type":"text","text":"Fase 2\nPipelines\n(ETL, Airflow, dbt)","x":-200,"y":200,"width":260,"height":120},
+		{"id":"4","type":"text","text":"Fase 3\nData Warehouse\n(Modelagem, Governança)","x":200,"y":200,"width":260,"height":120},
+		{"id":"5","type":"text","text":"Fase 4\nBig Data\n(Spark, Lakehouse)","x":600,"y":200,"width":260,"height":120},
+		{"id":"6","type":"text","text":"Fase 5\nStreaming\n(Kafka, CDC)","x":1000,"y":200,"width":260,"height":120},
+		{"id":"7","type":"text","text":"Fase 6\nCloud\n(AWS, Observabilidade)","x":1400,"y":200,"width":260,"height":120},
+		{"id":"8","type":"text","text":"Projeto Final\nData Platform\n(Airflow → Lake → Spark → dbt → DW)","x":400,"y":450,"width":350,"height":150},
+		{"id":"1","type":"text","text":"🧠 Engenharia de Dados (2026)\nRoadmap Elite","x":-90,"y":-480,"width":300,"height":120}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"1","fromSide":"left","toNode":"2","toSide":"right"},
+		{"id":"e2","fromNode":"1","fromSide":"bottom","toNode":"3","toSide":"top"},
+		{"id":"e3","fromNode":"1","fromSide":"bottom","toNode":"4","toSide":"top"},
+		{"id":"e4","fromNode":"1","fromSide":"right","toNode":"5","toSide":"left"},
+		{"id":"e5","fromNode":"1","fromSide":"right","toNode":"6","toSide":"left"},
+		{"id":"e6","fromNode":"1","fromSide":"right","toNode":"7","toSide":"left"},
+		{"id":"e7","fromNode":"2","fromSide":"right","toNode":"8","toSide":"left"},
+		{"id":"e8","fromNode":"3","fromSide":"right","toNode":"8","toSide":"left"},
+		{"id":"e9","fromNode":"4","fromSide":"bottom","toNode":"8","toSide":"top"},
+		{"id":"e10","fromNode":"5","fromSide":"bottom","toNode":"8","toSide":"top"},
+		{"id":"e11","fromNode":"6","fromSide":"bottom","toNode":"8","toSide":"top"},
+		{"id":"e12","fromNode":"7","fromSide":"left","toNode":"8","toSide":"right"}
+	]
+}

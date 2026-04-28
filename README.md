@@ -18,13 +18,20 @@ Aqui está sendo construído um Second Brain técnico, organizado no Obsidian e 
 
 ## 🗺️ Estrutura do conhecimento
 
+📁 Operação TJRJ
+ ├── Português
+ ├── Direito
+ └── Etc
+
 📁 Linguagens
  ├── Go
  ├── Java
+ ├── Python
  └── Node
 
 📁 Frameworks
  ├── Spring
+ ├── FastAPI
  └── NestJS
 
 📁 O mapa do arquiteto
@@ -32,6 +39,15 @@ Aqui está sendo construído um Second Brain técnico, organizado no Obsidian e 
  ├── 02 - Do Jr ao Pl-Sr
  ├── 03 - Rumo ao Arquiteto de Software
  └── 04 - Rumo ao Arquiteto de Soluções
+
+📁 Pós
+ ├── Arquitetura de Software
+ ├── Cloud Computing
+ ├── Desenvolvimento de Sistemas com Java
+ ├── Engenharia de Software
+ ├── Engenharia de Dados
+ ├── Inteligência Artificial
+ └── Segurança da Informação
 
 📁 Imagens
 📁 Indicação de leituras

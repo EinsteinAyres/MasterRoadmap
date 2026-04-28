@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9396209e96f29fa",
+        "id": "c1546d08b22f5c05",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef4dbe3d938d216",
+            "id": "f8612653e865031b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "roadmap-arquiteto-com-roadmaps.canvas",
-                "viewState": {
-                  "x": 10885.714072963276,
-                  "y": -379.3645675164551,
-                  "zoom": -0.6666666666666663
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "roadmap-arquiteto-com-roadmaps"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -177,6 +170,16 @@
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
+          },
+          {
+            "id": "c131c46c0f2597f5",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
           }
         ],
         "currentTab": 5
@@ -196,50 +199,54 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "6ef4dbe3d938d216",
+  "active": "f8612653e865031b",
   "lastOpenFiles": [
+    "README.md",
+    "Frameworks/⚡FastAPI/FastAPI.md",
+    "Frameworks/⚡FastAPI/⚡FastAPI Roadmap (2026).md",
+    "roadmap-arquiteto-com-roadmaps.canvas",
+    "Frameworks/⚡FastAPI/Conteúdo",
+    "Frameworks/⚡FastAPI",
+    "roadmap-arquiteto.canvas",
+    "⚖️Operação TJRJ (Foco 2027)/Módulo de Ignorância/Português FGV/FGV - Tipologia e Caráter do Discurso.md",
+    "Comprehensions.md",
+    "Indentação.md",
+    "Linguagens/🐍 Python/Python - Roadmap Geral.md",
+    "FastAPI Roadmap (2026).md",
+    "Linguagens/☕ Java/Java - Roadmap Geral.md",
+    "Linguagens/🐍 Python/Python.md",
+    "Linguagens/☕ Java/Java.md",
+    "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/01 - Fundamentos/semana-02-python.md",
+    "Linguagens/🐍 Python/Python - Roadmap Geral",
+    "Linguagens/🐍 Python/Preparação para entrevistas",
+    "Linguagens/🐍 Python/Conteúdo",
+    "Linguagens/🐍 Python",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/01 - Fundamentos/semana-01-sql.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/00 - Dashboard/progresso.md",
+    "Pós/Engenharia de Dados/engenharia_dados_roadmap.canvas",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/engenharia-de-dados-elite.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/cloud.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/07 - Projeto Final/data-platform.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/kafka.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/spark.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/sql.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/02 - Pipelines/semana-06-airflow.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/05 - Streaming/semana-14-streaming.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/05 - Streaming/semana-13-kafka.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/04 - Big Data/semana-12-lakehouse.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/04 - Big Data/semana-11-spark.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/03 - Data Warehouse/semana-10-governanca.md",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/07 - Projeto Final",
+    "Pós/Engenharia de Dados/engenharia-de-dados-elite/06 - Cloud",
     "roadmap-atualizado.canvas",
     "roadmap-multi.canvas",
-    "roadmap-arquiteto-com-roadmaps.canvas",
-    "Pós/Cloud Computing/Cloud Computing - Roadmap.md",
-    "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
-    "Pós/Segurança da Informação/Segurança da Informação.pdf",
-    "Pós/Engenharia de Software/Engenharia de Software.pdf",
-    "Pós/Cloud Computing/Cloud Computing.pdf",
-    "Linguagens/Java/Java.md",
-    "Linguagens/Go/Go.md",
-    "Linguagens/Java/Java - Roadmap Geral.md",
-    "roadmap-arquiteto.canvas",
-    "Pós/Engenharia de Software/Engenharia de Software - Roadmap.md",
-    "Pós/Arquitetura de Software/software-architect.pdf",
-    "Pós/Arquitetura de Software/software-design-architecture.pdf",
-    "Pós/Segurança da Informação/cyber-security.pdf",
-    "Pós/Inteligência Artificial/IA - Roadmap.md",
-    "Pós/Desenvolvimento de Sistemas com Java/DSJ - Roadmap.md",
-    "Pós/Engenharia de Dados/Engenharia de Dados - Roadmap.md",
-    "Pós/Engenharia de Software/Engenharia de Dados.pdf",
-    "Pós/Cloud Computing",
-    "Pós/Arquitetura de Software",
-    "Linguagens/Java/Conteúdo/04 Java Avançado/Lambdas.md",
-    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Streams.md",
-    "Linguagens/Java/Conteúdo/04 Java Avançado/Exceptions.md",
-    "Linguagens/Java/Conteúdo/04 Java Avançado/Collections e Generics.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Records.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Interfaces.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Imutabilidade.md",
-    "README.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Abstração.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Polimorfismo.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Herança.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Encapsulamento.md",
-    "Linguagens/Java/Conteúdo/03 Programação Orientada a Objetos/Classes e Objetos.md",
-    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Queue.md",
-    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Map.md",
-    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/Set.md",
-    "Linguagens/Java/Conteúdo/02 Base de Programação (Java Core)/List.md",
     "Imagens/Programador Júnior.png",
     "Imagens/Pasted image 20260423194557.png",
     "Imagens/Pasted image 20260423194503.png",

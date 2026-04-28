@@ -8,7 +8,7 @@
 ### 1.1 Fundamentos da Linguagem
 
 - Sintaxe e indentação
-- Tipos primitivos
+- [[Tipos primitivos]]
 - Listas, tuplas, sets e dicionários
 - Funções
 - Escopos
@@ -57,7 +57,7 @@
 
 ### 2.2 Programação Funcional
 
-- Lambda
+- [[Lambda]]
 - `map`, `filter`, `reduce`
 - Generators
 - Iterators

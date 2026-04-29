@@ -1,12 +1,12 @@
 
-* C#
-* Python
-* Javascript
+* [[C#]]
+* [[Python]]
+* [[Javascript]]
 * [[Java]]
-* PHP
-* Ruby
+* [[PHP]]
+* [[Ruby]]
 * [[Go]]
-* Rust
+* [[Rust]]
 * [[Node - Roadmap Geral]]
 * C++
 

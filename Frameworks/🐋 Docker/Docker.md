@@ -4,8 +4,8 @@
 
 ### 🔹 Conceitos
 
-- [ ]  O que é Docker
-- [ ]  Por que usar Docker
+- [ ]  [[O que é Docker]]
+- [ ]  [[Por que usar Docker]]
 - [ ]  Containers vs Máquinas Virtuais
 - [ ]  Imagens vs Containers
 - [ ]  Docker Engine

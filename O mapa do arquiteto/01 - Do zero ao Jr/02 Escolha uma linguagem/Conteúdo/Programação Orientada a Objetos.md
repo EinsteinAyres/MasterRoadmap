@@ -1,6 +1,6 @@
 
-- Abstração
-- Herança
-- Polimorfismo
-- Encapsulamento
+- [[Abstração]]
+- [[Herança]]
+- [[Polimorfismo]]
+- [[Encapsulamento]]
 

@@ -4,8 +4,8 @@ https://cs50.harvard.edu/technology/weeks/1/
 
 - [ ] [[Como funciona um computador]]
 - [ ] [[Como os programas rodam na memória]]
-- [ ] [[Como os processadores funcionam - a tirania do clock]]
-- [ ] [[Sobre sistemas operacionais - o maestro do caos]]
+- [ ] [[Como os processadores funcionam]]
+- [ ] [[Sistemas operacionais]]
 - [ ] [[Diferença entre linguagem compilada X interpretada]]
 - [ ] [[Linux - o kernel e a linhagem Debian e Ubuntu]]
 

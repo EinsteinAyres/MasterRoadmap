@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "115dd3a9b64732d9",
+        "id": "e1474bbf8866f489",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa00b92b2bcfa95",
+            "id": "f7211b75000ad032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/🐋 Docker/🐋 Docker Roadmap (2026).md",
+                "file": "Linguagens/☕ Java/Conteúdo/Recursos Java/String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🐋 Docker Roadmap (2026)"
+              "title": "String"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "api",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,45 +210,45 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "7fa00b92b2bcfa95",
+  "active": "f7211b75000ad032",
   "lastOpenFiles": [
+    "Linguagens/☕ Java/Conteúdo/Recursos Java/java.lang.Object.md",
+    "Linguagens/☕ Java/Conteúdo/Recursos Java/String.md",
+    "Linguagens/☕ Java/Conteúdo/Recursos Java/Classe String.md",
+    "Linguagens/☕ Java/Conteúdo/Recursos do Java.md",
+    "Linguagens/☕ Java/Conteúdo/Recursos Java/hashCode().md",
+    "Linguagens/☕ Java/Conteúdo/Recursos Java",
+    "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Atributos.md",
+    "Linguagens/☕ Java/Conteúdo/03 Programação Orientada a Objetos/Herança.md",
+    "Linguagens/☕ Java/Conteúdo/03 Programação Orientada a Objetos/Imutabilidade.md",
+    "Linguagens/☕ Java/Java - Roadmap Geral.md",
+    "Linguagens/☕ Java/Java.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Paradigmas da programação.md",
+    "Sem título",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Programação Orientada a Objetos.md",
+    "Linguagens/☕ Java/Conteúdo/03 Programação Orientada a Objetos/Abstração.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Escolha uma linguagem.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/02 Escolha uma linguagem/Conteúdo/Lógica de Programação.md",
+    "roadmap-arquiteto-com-roadmaps.canvas",
+    "Paradigmas de Programação.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo/Diferença entre linguagem compilada X interpretada/Diferença entre linguagem compilada X interpretada.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo/Sobre sistemas operacionais/Sistemas operacionais.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo/Como os processadores funcionam/Como os processadores funcionam.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/01 Fundamentos/Conteúdo/Como funciona um computador/Como funciona um computador.md",
+    "Frameworks/🐋 Docker/Tut Docker.md",
+    "Por que usar Docker.md",
     "Frameworks/🐋 Docker/Docker.md",
-    "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
+    "Frameworks/🐋 Docker/Conteúdo/O que é Docker.md",
     "Frameworks/🐋 Docker/🐋 Docker Roadmap (2026).md",
-    "Frameworks/Spring/Spring Boot.md",
-    "Linguagens/🐹 Go/Go.md",
+    "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
     "Frameworks/🐋 Docker/Conteúdo",
     "Frameworks/🐋 Docker",
-    "roadmap-arquiteto-com-roadmaps.canvas",
-    "Linguagens/🐍 Python/Conteúdo/Pacotes em Python.md",
-    "Linguagens/🐍 Python/Python.md",
-    "Linguagens/🐍 Python/Conteúdo/venv.md",
-    "Linguagens/🐍 Python/Conteúdo/Como criar e usar ambientes virtuais.md",
-    "Linguagens/🐍 Python/Conteúdo/Dicionário.md",
-    "Linguagens/🐍 Python/Conteúdo/Lista.md",
-    "Linguagens/🐍 Python/Conteúdo/Manipulação de arquivos.md",
-    "O mapa do arquiteto/Indicação de Treinamentos/Listas.md",
-    "Linguagens/🐍 Python/Conteúdo/Tupla.md",
-    "📚 Leituras/O Programador Pragmático/Principais pontos do livro 'O Programador Pragmático'.md",
     "📚 Leituras/O Programador Pragmático/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
     "📚 Leituras/O Programador Pragmático",
     "📚 Leituras",
-    "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Tipos Primitivos.md",
-    "Linguagens/🐍 Python/Conteúdo/Módulos em Python.md",
-    "Linguagens/🐍 Python/Conteúdo/Escopos de variáveis.md",
-    "Linguagens/🐍 Python/Conteúdo/Funções em Python.md",
-    "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Funções.md",
-    "Dicionários.md",
-    "Linguagens/🐍 Python/Conteúdo/Sets.md",
-    "Linguagens/🐍 Python/Conteúdo/namedtuple.md",
-    "Linguagens/🐍 Python/Conteúdo/Tuplas.md",
-    "Linguagens/🐍 Python/Conteúdo/Listas Python.md",
-    "Linguagens/🐍 Python/Conteúdo/Identação.md",
     "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
     "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/APIs & Integrações/Conteúdo",
     "Pós/Arquitetura de Soluções com IA/software-architect.pdf",
-    "Pós/Arquitetura de Soluções com IA/software-design-architecture.pdf",
-    "Pós/Arquitetura de Soluções com IA",
     "roadmap-arquiteto.canvas",
     "Pós/Engenharia de Dados/engenharia_dados_roadmap.canvas",
     "roadmap-atualizado.canvas",

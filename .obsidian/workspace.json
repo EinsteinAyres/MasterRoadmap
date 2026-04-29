@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "33634aa744ce3d8f",
+        "id": "115dd3a9b64732d9",
         "type": "tabs",
         "children": [
           {
-            "id": "83117c4029b55ba3",
+            "id": "7fa00b92b2bcfa95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Linguagens/🐍 Python/Python.md",
-                "mode": "source",
-                "source": false
+                "file": "roadmap-arquiteto-com-roadmaps.canvas",
+                "viewState": {
+                  "x": -53.61559294971312,
+                  "y": 1138.7752954263728,
+                  "zoom": -2.9999999999999996
+                }
               },
-              "icon": "lucide-file",
-              "title": "Python"
+              "icon": "lucide-layout-dashboard",
+              "title": "roadmap-arquiteto-com-roadmaps"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "26f49ce746686dfc",
@@ -210,11 +214,12 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "83117c4029b55ba3",
+  "active": "7fa00b92b2bcfa95",
   "lastOpenFiles": [
+    "Linguagens/🐍 Python/Conteúdo/Pacotes em Python.md",
+    "Linguagens/🐍 Python/Python.md",
     "Linguagens/🐍 Python/Conteúdo/venv.md",
     "Linguagens/🐍 Python/Conteúdo/Como criar e usar ambientes virtuais.md",
-    "Linguagens/🐍 Python/Python.md",
     "Linguagens/🐍 Python/Conteúdo/Dicionário.md",
     "Linguagens/🐍 Python/Conteúdo/Lista.md",
     "Linguagens/🐍 Python/Conteúdo/Manipulação de arquivos.md",
@@ -224,7 +229,6 @@
     "Leituras/O Programador Pragmático/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
     "Leituras/O Programador Pragmático",
     "Leituras",
-    "Pacotes em Python.md",
     "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Tipos Primitivos.md",
     "Linguagens/🐍 Python/Conteúdo/Módulos em Python.md",
     "Linguagens/🐍 Python/Conteúdo/Escopos de variáveis.md",

@@ -45,7 +45,7 @@
 - [ ]  [[Dict]]
 - [ ]  [[Strings]]
 - [ ]  [[Funções]]
-- [ ]  [[Módulos]]
+- [ ]  [[Módulos em Python]]
 - [ ]  [[Pacotes]]
 - [ ]  [[Importações]]
 - [ ]  [[Manipulação de arquivos]]

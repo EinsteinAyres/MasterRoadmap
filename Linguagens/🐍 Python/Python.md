@@ -1,4 +1,8 @@
 
+
+[Documentação Python](https://docs.python.org/pt-br/3.12/)
+
+
 # SUMÁRIO ESTRATÉGICO – BACKEND PYTHON (2026+)
 
 ## 🔰 1. FUNDAMENTOS SÓLIDOS
@@ -7,14 +11,18 @@
 
 ### 1.1 Fundamentos da Linguagem
 
-- Sintaxe e indentação
+- [[Sintaxe]]
+- [[Identação]]
 - [[Tipos primitivos]]
-- Listas, tuplas, sets e dicionários
-- Funções
-- Escopos
-- Módulos e pacotes
-- Manipulação de arquivos
-- Ambientes virtuais
+- [[Listas Python]]
+- [[Dicionário]]
+- [[Lista]]
+- [[Funções em Python]]
+- [[Escopos de variáveis]]
+- [[Módulos em Python]]
+- [[Pacotes em Python]]
+- [[Manipulação de arquivos]]
+- Ambientes virtuais [[venv]]
 
 ### 1.2 Python Idiomático
 

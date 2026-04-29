@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1546d08b22f5c05",
+        "id": "33634aa744ce3d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8612653e865031b",
+            "id": "83117c4029b55ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stack vs Heap",
+                "query": "api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Linguagens/🐍 Python/Python.md"
+                "file": "O mapa do arquiteto/01 - Do zero ao Jr/03 SQL e Bancos relacionais/Conteúdo/Bancos de dados relacionais.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
@@ -210,47 +210,47 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "f8612653e865031b",
+  "active": "83117c4029b55ba3",
   "lastOpenFiles": [
-    "Linguagens/☕ Java/Java.md",
-    "Linguagens/☕ Java/Java - Roadmap Geral.md",
+    "Linguagens/🐍 Python/Conteúdo/venv.md",
+    "Linguagens/🐍 Python/Conteúdo/Como criar e usar ambientes virtuais.md",
     "Linguagens/🐍 Python/Python.md",
-    "Linguagens/🐍 Python/Python - Roadmap Geral.md",
-    "README.md",
-    "Frameworks/⚡FastAPI/FastAPI.md",
-    "Frameworks/⚡FastAPI/⚡FastAPI Roadmap (2026).md",
+    "Linguagens/🐍 Python/Conteúdo/Dicionário.md",
+    "Linguagens/🐍 Python/Conteúdo/Lista.md",
+    "Linguagens/🐍 Python/Conteúdo/Manipulação de arquivos.md",
+    "O mapa do arquiteto/Indicação de Treinamentos/Listas.md",
+    "Linguagens/🐍 Python/Conteúdo/Tupla.md",
+    "Leituras/O Programador Pragmático/Principais pontos do livro 'O Programador Pragmático'.md",
+    "Leituras/O Programador Pragmático/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
+    "Leituras/O Programador Pragmático",
+    "Leituras",
+    "Pacotes em Python.md",
+    "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Tipos Primitivos.md",
+    "Linguagens/🐍 Python/Conteúdo/Módulos em Python.md",
+    "Linguagens/🐍 Python/Conteúdo/Escopos de variáveis.md",
+    "Linguagens/🐍 Python/Conteúdo/Funções em Python.md",
+    "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Funções.md",
+    "Dicionários.md",
+    "Linguagens/🐍 Python/Conteúdo/Sets.md",
+    "Linguagens/🐍 Python/Conteúdo/namedtuple.md",
+    "Linguagens/🐍 Python/Conteúdo/Tuplas.md",
+    "Linguagens/🐍 Python/Conteúdo/Listas Python.md",
+    "Linguagens/🐍 Python/Conteúdo/Identação.md",
+    "Linguagens/🐍 Python/Conteúdo/Sintaxe.md",
+    "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
+    "Pós/Engenharia de Dados/Engenharia de Dados - Tópicos.md",
     "roadmap-arquiteto-com-roadmaps.canvas",
+    "Linguagens/Go/Go.md",
+    "Linguagens/Node/Node.md",
+    "Linguagens/☕ Java/Java.md",
+    "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/APIs & Integrações/Conteúdo",
+    "Pós/Arquitetura de Soluções com IA/software-architect.pdf",
+    "Pós/Arquitetura de Soluções com IA/software-design-architecture.pdf",
+    "Pós/Arquitetura de Soluções com IA",
     "Frameworks/⚡FastAPI/Conteúdo",
     "Frameworks/⚡FastAPI",
     "roadmap-arquiteto.canvas",
-    "⚖️Operação TJRJ (Foco 2027)/Módulo de Ignorância/Português FGV/FGV - Tipologia e Caráter do Discurso.md",
-    "Comprehensions.md",
-    "Indentação.md",
-    "FastAPI Roadmap (2026).md",
-    "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/01 - Fundamentos/semana-02-python.md",
-    "Linguagens/🐍 Python/Python - Roadmap Geral",
-    "Linguagens/🐍 Python/Preparação para entrevistas",
-    "Linguagens/🐍 Python/Conteúdo",
-    "Linguagens/🐍 Python",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/01 - Fundamentos/semana-01-sql.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/00 - Dashboard/progresso.md",
     "Pós/Engenharia de Dados/engenharia_dados_roadmap.canvas",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/engenharia-de-dados-elite.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/cloud.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/07 - Projeto Final/data-platform.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/kafka.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/spark.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards/sql.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/02 - Pipelines/semana-06-airflow.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/05 - Streaming/semana-14-streaming.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/05 - Streaming/semana-13-kafka.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/04 - Big Data/semana-12-lakehouse.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/04 - Big Data/semana-11-spark.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/03 - Data Warehouse/semana-10-governanca.md",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/99 - Flashcards",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/07 - Projeto Final",
-    "Pós/Engenharia de Dados/engenharia-de-dados-elite/06 - Cloud",
     "roadmap-atualizado.canvas",
     "roadmap-multi.canvas",
     "Imagens/Programador Júnior.png",

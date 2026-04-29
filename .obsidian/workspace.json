@@ -11,17 +11,14 @@
             "id": "7fa00b92b2bcfa95",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "roadmap-arquiteto-com-roadmaps.canvas",
-                "viewState": {
-                  "x": -53.61559294971312,
-                  "y": 1138.7752954263728,
-                  "zoom": -2.9999999999999996
-                }
+                "file": "Frameworks/🐋 Docker/🐋 Docker Roadmap (2026).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "roadmap-arquiteto-com-roadmaps"
+              "icon": "lucide-file",
+              "title": "🐋 Docker Roadmap (2026)"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "26f49ce746686dfc",
@@ -216,6 +212,14 @@
   },
   "active": "7fa00b92b2bcfa95",
   "lastOpenFiles": [
+    "Frameworks/🐋 Docker/Docker.md",
+    "Frameworks/Spring/🌱 Spring Boot Roadmap (2026).md",
+    "Frameworks/🐋 Docker/🐋 Docker Roadmap (2026).md",
+    "Frameworks/Spring/Spring Boot.md",
+    "Linguagens/🐹 Go/Go.md",
+    "Frameworks/🐋 Docker/Conteúdo",
+    "Frameworks/🐋 Docker",
+    "roadmap-arquiteto-com-roadmaps.canvas",
     "Linguagens/🐍 Python/Conteúdo/Pacotes em Python.md",
     "Linguagens/🐍 Python/Python.md",
     "Linguagens/🐍 Python/Conteúdo/venv.md",
@@ -225,10 +229,10 @@
     "Linguagens/🐍 Python/Conteúdo/Manipulação de arquivos.md",
     "O mapa do arquiteto/Indicação de Treinamentos/Listas.md",
     "Linguagens/🐍 Python/Conteúdo/Tupla.md",
-    "Leituras/O Programador Pragmático/Principais pontos do livro 'O Programador Pragmático'.md",
-    "Leituras/O Programador Pragmático/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
-    "Leituras/O Programador Pragmático",
-    "Leituras",
+    "📚 Leituras/O Programador Pragmático/Principais pontos do livro 'O Programador Pragmático'.md",
+    "📚 Leituras/O Programador Pragmático/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
+    "📚 Leituras/O Programador Pragmático",
+    "📚 Leituras",
     "Linguagens/☕ Java/Conteúdo/02 Base de Programação (Java Core)/Tipos Primitivos.md",
     "Linguagens/🐍 Python/Conteúdo/Módulos em Python.md",
     "Linguagens/🐍 Python/Conteúdo/Escopos de variáveis.md",
@@ -240,19 +244,11 @@
     "Linguagens/🐍 Python/Conteúdo/Tuplas.md",
     "Linguagens/🐍 Python/Conteúdo/Listas Python.md",
     "Linguagens/🐍 Python/Conteúdo/Identação.md",
-    "Linguagens/🐍 Python/Conteúdo/Sintaxe.md",
     "Pós/Engenharia de Dados/Engenharia de Dados.pdf",
-    "Pós/Engenharia de Dados/Engenharia de Dados - Tópicos.md",
-    "roadmap-arquiteto-com-roadmaps.canvas",
-    "Linguagens/Go/Go.md",
-    "Linguagens/Node/Node.md",
-    "Linguagens/☕ Java/Java.md",
     "O mapa do arquiteto/01 - Do zero ao Jr/05 Redes e Internet/APIs & Integrações/Conteúdo",
     "Pós/Arquitetura de Soluções com IA/software-architect.pdf",
     "Pós/Arquitetura de Soluções com IA/software-design-architecture.pdf",
     "Pós/Arquitetura de Soluções com IA",
-    "Frameworks/⚡FastAPI/Conteúdo",
-    "Frameworks/⚡FastAPI",
     "roadmap-arquiteto.canvas",
     "Pós/Engenharia de Dados/engenharia_dados_roadmap.canvas",
     "roadmap-atualizado.canvas",

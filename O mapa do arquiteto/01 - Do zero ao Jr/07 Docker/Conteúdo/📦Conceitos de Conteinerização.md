@@ -48,6 +48,6 @@ O que são cgroups?::Controle de uso de CPU e memória
 ---
 
 ## 🔗 Conexões
-- [[Docker]]
+- [[O mapa do arquiteto/01 - Do zero ao Jr/07 Docker/Docker]]
 - [[Kubernetes]]
 - [[Microsserviços]]

@@ -229,7 +229,7 @@ Ferramentas:
 
 ### 12.1 Containers
 
-- [ ]  [[Docker]]
+- [ ]  [[O mapa do arquiteto/01 - Do zero ao Jr/07 Docker/Docker]]
 - [ ]  [[Kubernetes]]
 - [ ]  OpenShift (🔥 forte com Quarkus)
 

@@ -36,7 +36,7 @@ https://coddy.tech/journeys/java/
 - [ ]  [[Métodos]]
 - [ ]  [[ArrayList]]
 - [ ]  [[Streams]]
-- [ ] [[Estruturas de dados]]
+- [ ]  [[Estruturas de dados]]
 - [ ]  [[List]]
 - [ ] [[Set]]
 - [ ] [[Map]]

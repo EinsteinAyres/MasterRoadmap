@@ -6,7 +6,7 @@ Este tutorial para iniciantes aborda os fundamentos da conteinerização, ajudan
 
 ## Treinar mais pessoas?
 
-Quando comecei a usar [o Docker](https://www.datacamp.com/pt/courses/introduction-to-docker), percebi rapidamente o quanto ele era poderoso. Imagine configurar seu ambiente de desenvolvimento em minutos, em vez de horas, ou executar aplicativos em diferentes máquinas sem o clássico problema de "funciona na minha máquina".
+Quando comecei a usar o [[Docker]], percebi rapidamente o quanto ele era poderoso. Imagine configurar seu ambiente de desenvolvimento em minutos, em vez de horas, ou executar aplicativos em diferentes máquinas sem o clássico problema de "funciona na minha máquina".
 
 O Docker simplifica a forma como criamos, enviamos e executamos aplicativos, empacotando-os em contêineres leves e portáteis. Se você é um desenvolvedor, cientista de dados ou administrador de sistemas, dominar o Docker pode evitar dores de cabeça e tornar seus fluxos de trabalho mais eficientes.
 
@@ -14,7 +14,7 @@ Neste tutorial, mostrarei a você o básico - instalar o Docker, entender os pri
 
 ## O que é o Docker?
 
-[O Docker](https://www.docker.com/) é uma plataforma de conteinerização de código aberto que simplifica a implantação de aplicativos ao empacotar o software e suas dependências em uma unidade padronizada chamada container. [Ao contrário das máquinas virtuais tradicionais](https://www.datacamp.com/pt/blog/containers-vs-virtual-machines), os contêineres do Docker compartilham o kernel do sistema operacional do host, o que os torna mais eficientes e leves.
+[[Docker]] é uma plataforma de conteinerização de código aberto que simplifica a implantação de aplicativos ao empacotar o software e suas dependências em uma unidade padronizada chamada container. **Ao contrário das máquinas virtuais tradicionais**, os contêineres do Docker compartilham o kernel do sistema operacional do host, o que os torna mais eficientes e leves.
 
 Os contêineres garantem que um aplicativo seja executado da mesma forma em ambientes de desenvolvimento, teste e produção. Isso reduz os problemas de compatibilidade e aumenta a portabilidade em várias plataformas. Devido à sua flexibilidade e escalabilidade, o Docker se tornou uma ferramenta crucial nos fluxos de trabalho modernos de DevOps e de desenvolvimento nativo da nuvem.
 
@@ -36,12 +36,12 @@ Faça o download do instalador do Docker Desktop para Windows
 
 Instalação do Docker Desktop para Windows
 
-3. Ative a integração do WSL 2, se solicitado.
-4. Verifique a instalação executando `docker –version` no PowerShell.
+3. Ative a integração do [[WSL 2]], se solicitado.
+4. Verifique a instalação executando `docker –version` no [[PowerShell]].
 
 ![Verificando a versão do Docker após a instalação por meio do Powershell](https://media.datacamp.com/cms/ad_4nxd83vapgopwyykwrtqwk5j3cw41ldhyrimt03bt7v-wsir8a2golorwptp3nhmqdkzhhniutg2f7_7nic3lsdu_lg6t7ugbxsj8nw36cay8xnndkyjka3jtcms8vh7nl8zqw3a1ra.png)
 
-Verificando a versão do Docker após a instalação por meio do Powershell 
+Verificando a versão do Docker após a instalação por meio do PowerShell 
 
 5. Inicie o aplicativo Docker Desktop no menu Executar.
 
@@ -72,7 +72,7 @@ Baixe o instalador do Docker Desktop para Mac
 
 ## Domine o Docker e o Kubernetes
 
-Aprenda o poder do Docker e do Kubernetes com uma trilha interativa para criar e implantar aplicativos em ambientes modernos.
+Aprenda o poder do [[Docker]] e do [[Kubernetes]] com uma trilha interativa para criar e implantar aplicativos em ambientes modernos.
 
 ## Conceitos básicos do Docker
 
@@ -84,21 +84,21 @@ Vamos explorar cada um desses conceitos em mais detalhes.
 
 ### Imagens do Docker
 
-As imagens do Docker são os blocos de construção fundamentais dos contêineres. São modelos imutáveis e somente leitura que contêm tudo o que é necessário para executar um aplicativo, inclusive o sistema operacional, o código do aplicativo, o tempo de execução e as dependências.
+As [[Imagens do Docker]] são os blocos de construção fundamentais dos contêineres. São modelos imutáveis e somente leitura que contêm tudo o que é necessário para executar um aplicativo, inclusive o sistema operacional, o código do aplicativo, o tempo de execução e as dependências.
 
-As imagens são criadas usando um `Dockerfile`, que define as instruções para a criação de uma imagem camada por camada.
+As imagens são criadas usando um [[Dockerfile]], que define as instruções para a criação de uma imagem camada por camada.
 
-As imagens podem ser armazenadas e recuperadas de registros de contêineres, como o Docker Hub.
+As imagens podem ser armazenadas e recuperadas de registros de contêineres, como o [[Docker Hub]].
 
 Aqui estão alguns exemplos de comandos para você trabalhar com imagens:
 
-- `docker pull nginx`: Você pode obter a imagem mais recente do Nginx no Docker Hub.
+- `docker pull nginx`: Você pode obter a imagem mais recente do [[Nginx]] no [[Docker Hub]].
 - `docker images`: Lista todas as imagens disponíveis no computador local.
 - `docker rmi nginx`: Remover uma imagem do computador local.
 
 ### Contêineres do Docker
 
-Um contêiner do Docker é uma instância em execução de uma imagem do Docker. Os contêineres oferecem um ambiente de tempo de execução isolado no qual os aplicativos podem ser executados sem interferir uns nos outros ou no sistema host. Cada contêiner tem seu próprio sistema de arquivos, rede e espaço de processo, mas compartilha o kernel do host.
+Um [[Contêiner do Docker]] é uma instância em execução de uma imagem do Docker. Os contêineres oferecem um ambiente de tempo de execução isolado no qual os aplicativos podem ser executados sem interferir uns nos outros ou no sistema host. Cada contêiner tem seu próprio sistema de arquivos, rede e espaço de processo, mas compartilha o kernel do host.
 
 Os contêineres seguem um ciclo de vida simples que envolve criação, inicialização, interrupção e exclusão. Aqui está um detalhamento dos comandos comuns de gerenciamento de contêineres:
 
@@ -259,7 +259,7 @@ O Docker Compose é uma ferramenta que simplifica o gerenciamento de aplicativos
 
 ### Escrevendo um arquivo Docker Compose
 
-Agora, vamos criar um exemplo do mundo real: um aplicativo Node.js simples que se conecta a um [banco de dados MongoDB](https://www.datacamp.com/pt/courses/introduction-to-using-mongodb-for-data-science-with-python). Em vez de gerenciar os dois contêineres separadamente, nós os definiremos em um arquivo `docker-compose.yml`.
+Agora, vamos criar um exemplo do mundo real: um aplicativo Node.js simples que se conecta a um banco de dados [[MongoDB]]. Em vez de gerenciar os dois contêineres separadamente, nós os definiremos em um arquivo `docker-compose.yml`.
 
 Veja como definimos nossa configuração de vários contêineres no Docker Compose:
 
@@ -312,7 +312,7 @@ O Docker oferece suporte a vários tipos de rede, cada um atendendo a diferentes
 - Sobreposição: Permite a comunicação de contêineres em diferentes hosts, criando uma rede distribuída.
 
 - Exemplo: `docker network create --driver overlay my-overlay-network`
-- Projetado para implementações orquestradas, como o Docker Swarm, em que os serviços abrangem vários nós.
+- Projetado para implementações orquestradas, como o [[Docker Swarm]], em que os serviços abrangem vários nós.
 
 - Macvlan: Atribui um endereço MAC exclusivo a cada contêiner, fazendo com que ele apareça como um dispositivo físico na rede.
 
@@ -383,16 +383,16 @@ As práticas recomendadas a seguir ajudarão você a otimizar seus fluxos de tra
 - Use compilações em vários estágios: Otimize os Dockerfiles separando as dependências de compilação e de tempo de execução. As compilações em vários estágios garantem que apenas os artefatos necessários sejam incluídos na imagem final, reduzindo o tamanho e a superfície de ataque.
 - Marque as imagens corretamente: Sempre use tags com versão (por exemplo, `my-app:v1.0.0`) em vez de `latest` para evitar atualizações inesperadas ao extrair imagens.
 - Examinar imagens em busca de vulnerabilidades: Use ferramentas de varredura de segurança como `docker scan`, `Trivy` ou `Clair` para identificar e corrigir vulnerabilidades de segurança em suas imagens antes da implementação.
-- Gerencie variáveis de ambiente com segurança: Evite armazenar credenciais confidenciais em imagens. Use segredos do Docker, variáveis de ambiente ou ferramentas externas de gerenciamento de segredos, como o AWS Secrets Manager ou o HashiCorp Vault.
+- Gerencie variáveis de ambiente com segurança: Evite armazenar credenciais confidenciais em imagens. Use segredos do Docker, variáveis de ambiente ou ferramentas externas de gerenciamento de segredos, como o [[AWS Secrets Manager]] ou o [[HashiCorp Vault]].
 - Use arquivos .dockerignore: Exclua arquivos desnecessários (por exemplo, `.git, node_modules`, `venv`) para reduzir o tamanho do contexto de compilação e evitar a inclusão acidental de arquivos confidenciais nas imagens.
 - Habilite o registro e o monitoramento: Utilize ferramentas como Prometheus, Grafana e Fluentd para logs e monitoramento de contêineres. Inspecione os registros usando `docker logs` e ative o registro estruturado para melhor observabilidade.
 
 Depois que você dominar os conceitos básicos do Docker, há muitos tópicos avançados a serem explorados. Aqui estão algumas áreas que você deve explorar em seguida:
 
-- Docker Swarm e Kubernetes: Explore o Docker Swarm (cluster integradog) e [o Kubernetes](https://www.datacamp.com/pt/tracks/containerization-and-virtualization) (orquestração de nível empresarial com dimensionamento automático e descoberta de serviços) para orquestração de nível de produção.
+- Docker Swarm e Kubernetes: Explore o Docker Swarm (cluster integradog) e o [[Kubernetes]] (orquestração de nível empresarial com dimensionamento automático e descoberta de serviços) para orquestração de nível de produção.
 - Práticas recomendadas de segurança de contêineres: Para proteger aplicativos em contêineres, siga as diretrizes do CIS Docker Benchmark e implemente o RBAC (Role-Based Access Control, controle de acesso baseado em função).
-- Pipelines de CI/CD com o Docker: Automatize as compilações de imagens, as verificações de segurança e as implementações usando o GitHub Actions, o GitLab CI ou o Jenkins.
-- Desenvolvimento nativo da nuvem: Aproveite o Docker com plataformas de nuvem como AWS ECS, Azure Container Instances e Google Cloud Run para implantações escalonáveis e gerenciadas.
+- Pipelines de CI/CD com o Docker: Automatize as compilações de imagens, as verificações de segurança e as implementações usando o [[GitHub Actions]], o [[GitLab CI]] ou o [[Jenkins]].
+- Desenvolvimento nativo da nuvem: Aproveite o Docker com plataformas de nuvem como [[AWS ECS]], [[Azure Container Instances]] e [[Google Cloud Run]] para implantações escalonáveis e gerenciadas.
 - Estratégias de persistência de dados: Para otimizar o gerenciamento do armazenamento, entenda as diferenças entre os volumes do Docker, as montagens bind e o tmpfs.
 
 ## Conclusão
